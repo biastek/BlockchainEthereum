@@ -1,0 +1,2110 @@
+/*-----------------------------------------------------------------------------
+    Base-Color
+-----------------------------------------------------------------------------*/
+
+
+/*=======Background Color=======*/
+
+.base-color-switcher .color-panel-spinner,
+.base-color-switcher .site-color-panel .site-color-panel-box>h3,
+.base-color-switcher .main-slider .slide-btn button:hover,
+.base-color-switcher .double-bounce1,
+.base-color-switcher #shopping-cart>span,
+.base-color-switcher .double-bounce2,
+.base-color-switcher .main-slider .slide-btn button.btn.btn-default.right,
+.base-color-switcher .domain-serch .domain-search-form input.domain-search-btn,
+.base-color-switcher .section-title .title-bottom-line,
+.base-color-switcher .service-iteam:hover .service-icon i,
+.base-color-switcher .service .service-iteam>a:hover,
+.base-color-switcher .service-iteam.home-two .serv-icon i,
+.base-color-switcher #pricing-carousel .carousel-indicators>li.active,
+.base-color-switcher .pricing .pricing-plan .pricing-top,
+.base-color-switcher .pricing .price-btn>a,
+.base-color-switcher .call-to-action,
+.base-color-switcher .member-overlay ul,
+.base-color-switcher .member-info,
+.base-color-switcher .progress-bar,
+.base-color-switcher .latest-blog.home-default .blog-post-load-btn>a,
+.base-color-switcher .comment-border,
+.base-color-switcher .comment-form .comment-btn button,
+.base-color-switcher .comment-form .comment-btn button:hover,
+.base-color-switcher #widget-carousel .glyphicon.glyphicon-chevron-left:hover,
+.base-color-switcher #widget-carousel .glyphicon.glyphicon-chevron-right:hover,
+.base-color-switcher .widget-border,
+.base-color-switcher .green-color-switcher .widget-tagcloud .tagcloud-list li a,
+.base-color-switcher .widget-tagcloud .tagcloud-list li a,
+.base-color-switcher .pricing-top-two,
+.base-color-switcher .pricing-price-two,
+.base-color-switcher .pricing .price-btn-two>a,
+.base-color-switcher .notfound-page .notfound-wrap .notfound-content a,
+.base-color-switcher .contact .contact-form .btn.btn-default,
+.base-color-switcher .cont-number.contact-two i.fa,
+.base-color-switcher .cont-email.contact-two i.fa,
+.base-color-switcher .cont-address.contact-two i.fa,
+.base-color-switcher .contact-info .cont-social ul li a:hover,
+.base-color-switcher .login-page .login-form button,
+.base-color-switcher .login-form-content.login-pg-one .login-form.login-pg-one h2,
+.base-color-switcher .registration-page .registration-form button,
+.base-color-switcher .registration-form-content.registration-pg-one .registration-form.registration-pg-one h2,
+.base-color-switcher .testimonial .carousel-indicators li.active,
+.base-color-switcher .footer .footer-suprt-items,
+.base-color-switcher .footer .live-chat span.chat-left,
+.base-color-switcher .footer .live-chat span.chat-right,
+.base-color-switcher .footer .totop>a,
+.base-color-switcher #chat-accordion.panel-heading,
+.base-color-switcher #chat-accordion.panel-heading .btn.btn-primary.btn-block.btn-xs,
+.base-color-switcher .live-chat-wrapper #btn-chat,
+.base-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button:hover,
+.base-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button.btn.btn-default.right:hover,
+.base-color-switcher .domain-serch.home-two .domain-search-form.home-two .domain-search-btn,
+.base-color-switcher .domain-serch.home-two .domain-search-form.home-two .domain-search-btn:hover,
+.base-color-switcher .service-iteam.home-two:hover i.home-two,
+.base-color-switcher .testimonial.home-two .carousel-indicators.home-two li.active,
+.base-color-switcher .post-content>a:hover,
+.base-color-switcher .post-pagination .pagination li.active a,
+.base-color-switcher .post-pagination .pagination li a:hover,
+.base-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-left:hover,
+.base-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-right:hover,
+.base-color-switcher .footer .footer-widget .widget-newsletter a.btn,
+.base-color-switcher .login-form-one-content .login-form-one h2,
+.base-color-switcher .login-form-one-content .login-form-one button,
+.base-color-switcher .author-comment-text span a.reply-btn:hover {
+    background: #288feb!important;
+}
+
+
+/*======Background RGBA Color=====*/
+
+.base-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-overlay,
+.base-color-switcher .member-overlay {
+    background-color: rgba(40, 143, 235, 0.5)!important;
+}
+
+
+/*==========Element Color=========*/
+
+.base-color-switcher .nav.navbar-nav li.active>a,
+.base-color-switcher .nav.navbar-nav li>a:hover,
+.base-color-switcher .topbar-social-icons ul li>a:hover,
+.base-color-switcher .service .service-iteam>a,
+.base-color-switcher .service .service-icon i,
+.base-color-switcher .call-to-action .btn,
+.base-color-switcher .company-info-counter .company-info-item i,
+.base-color-switcher .company-info-counter .company-info-item h1,
+.base-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-post-content span a,
+.base-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-overlay-content>a:hover,
+.base-color-switcher .testimonial .testi-content .client-info h2,
+.base-color-switcher .partner h1 span,
+.base-color-switcher .footer .widget-contact .widget-address h3 span,
+.base-color-switcher .footer .widget-list li:hover,
+.base-color-switcher .footer .widget-list li a:hover,
+.base-color-switcher .footer .widget-newsletter .widget-social a:hover,
+.base-color-switcher .footer .footer-menu li a:hover,
+.base-color-switcher .slide-content.home-two h2 span,
+.base-color-switcher .company-expertise-list p i,
+.base-color-switcher .post-meta .post-title>a:hover,
+.base-color-switcher .post-content>a,
+.base-color-switcher .blog-post-social-share ul li a,
+.base-color-switcher .related-blog-post #rel-blog-post-carousel p span .fa,
+.base-color-switcher .author-comment-text span a,
+.base-color-switcher .widget-search .widget-search-icon .fa,
+.base-color-switcher .widget-category ul li a:hover,
+.base-color-switcher .cont-address.contact-two a,
+.base-color-switcher .contact-info .cont-email a,
+.base-color-switcher .registration-form p>a,
+.base-color-switcher .registration-form .checkbox span a,
+.base-color-switcher .post-meta span a i,
+.base-color-switcher .pagination>li>a,
+.base-color-switcher .pagination>li>span,
+.base-color-switcher .cont-two-content i.fa {
+    color: #288feb!important;
+}
+
+
+/*======Font Color Different======*/
+
+.base-color-switcher .service-iteam:hover .service-icon i,
+.base-color-switcher .service .service-iteam>a:hover,
+.base-color-switcher .post-pagination .pagination li.active a,
+.base-color-switcher .post-pagination .pagination li a:hover,
+.base-color-switcher .post-content>a:hover,
+.base-color-switcher .author-comment-text span a.reply-btn:hover {
+    color: #fff!important;
+}
+
+
+/*==========Border Color==========*/
+
+.base-color-switcher .main-slider .slide-btn button,
+.base-color-switcher .main-slider .carousel-indicators li.active,
+.base-color-switcher .domain-serch .domain-search-form input.domain-search-btn,
+.base-color-switcher .service .service-icon i,
+.base-color-switcher .service .service-iteam>a,
+.base-color-switcher #pricing-carousel .carousel-indicators>li.active,
+.base-color-switcher .pricing .pricing-tringle,
+.base-color-switcher .footer .widget-newsletter .widget-social a:hover,
+.base-color-switcher .testimonial .carousel-indicators li.active,
+.base-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button,
+.base-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button.btn.btn-default.right:hover,
+.base-color-switcher .company-info-counter.home-two .company-info-item.home-two i,
+.base-color-switcher .testimonial.home-two .carousel-indicators.home-two li.active,
+.base-color-switcher .post-content>a,
+.base-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-left:hover,
+.base-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-right:hover,
+.base-color-switcher .author-comment-text span a,
+.base-color-switcher .registration-form-content.registration-pg-one .registration-form.registration-pg-one,
+.base-color-switcher .login-form-content.login-pg-one .login-form.login-pg-one,
+.base-color-switcher .post-pagination .pagination li.active a,
+.base-color-switcher .login-form-one-content .login-form-one {
+    border-color: #288feb!important;
+}
+
+
+/*===Border Color With Transparent===*/
+
+.base-color-switcher .pricing .pricing-tringle {
+    border-color: #288feb transparent transparent!important;
+}
+
+
+/*=========Box Shadow Color==========*/
+
+.base-color-switcher .service-iteam.home-two .serv-icon i.home-two::after {
+    box-shadow: 0 0 0 4px #288feb!important;
+}
+
+
+/*-----------------------------------------------------------------------------
+    Green-Color
+-----------------------------------------------------------------------------*/
+
+
+/*=======Background Color=======*/
+
+.green-color-switcher .color-panel-spinner,
+.green-color-switcher .site-color-panel .site-color-panel-box>h3,
+.green-color-switcher .main-slider .slide-btn button:hover,
+.green-color-switcher .double-bounce1,
+.green-color-switcher #shopping-cart>span,
+.green-color-switcher .double-bounce2,
+.green-color-switcher .main-slider .slide-btn button.btn.btn-default.right,
+.green-color-switcher .domain-serch .domain-search-form input.domain-search-btn,
+.green-color-switcher .section-title .title-bottom-line,
+.green-color-switcher .service-iteam:hover .service-icon i,
+.green-color-switcher .service .service-iteam>a:hover,
+.green-color-switcher .service-iteam.home-two .serv-icon i,
+.green-color-switcher #pricing-carousel .carousel-indicators>li.active,
+.green-color-switcher .pricing .pricing-plan .pricing-top,
+.green-color-switcher .pricing .price-btn>a,
+.green-color-switcher .call-to-action,
+.green-color-switcher .member-overlay ul,
+.green-color-switcher .member-info,
+.green-color-switcher .progress-bar,
+.green-color-switcher .latest-blog.home-default .blog-post-load-btn>a,
+.green-color-switcher .comment-border,
+.green-color-switcher .comment-form .comment-btn button,
+.green-color-switcher .comment-form .comment-btn button:hover,
+.green-color-switcher #widget-carousel .glyphicon.glyphicon-chevron-left:hover,
+.green-color-switcher #widget-carousel .glyphicon.glyphicon-chevron-right:hover,
+.green-color-switcher .widget-border,
+.green-color-switcher .green-color-switcher .widget-tagcloud .tagcloud-list li a,
+.green-color-switcher .widget-tagcloud .tagcloud-list li a,
+.green-color-switcher .pricing-top-two,
+.green-color-switcher .pricing-price-two,
+.green-color-switcher .pricing .price-btn-two>a,
+.green-color-switcher .notfound-page .notfound-wrap .notfound-content a,
+.green-color-switcher .contact .contact-form .btn.btn-default,
+.green-color-switcher .cont-number.contact-two i.fa,
+.green-color-switcher .cont-email.contact-two i.fa,
+.green-color-switcher .cont-address.contact-two i.fa,
+.green-color-switcher .contact-info .cont-social ul li a:hover,
+.green-color-switcher .login-page .login-form button,
+.green-color-switcher .login-form-content.login-pg-one .login-form.login-pg-one h2,
+.green-color-switcher .registration-page .registration-form button,
+.green-color-switcher .registration-form-content.registration-pg-one .registration-form.registration-pg-one h2,
+.green-color-switcher .testimonial .carousel-indicators li.active,
+.green-color-switcher .footer .footer-suprt-items,
+.green-color-switcher .footer .live-chat span.chat-left,
+.green-color-switcher .footer .live-chat span.chat-right,
+.green-color-switcher .footer .totop>a,
+.green-color-switcher #chat-accordion.panel-heading,
+.green-color-switcher #chat-accordion.panel-heading .btn.btn-primary.btn-block.btn-xs,
+.green-color-switcher .live-chat-wrapper #btn-chat,
+.green-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button:hover,
+.green-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button.btn.btn-default.right:hover,
+.green-color-switcher .domain-serch.home-two .domain-search-form.home-two .domain-search-btn,
+.green-color-switcher .domain-serch.home-two .domain-search-form.home-two .domain-search-btn:hover,
+.green-color-switcher .service-iteam.home-two:hover i.home-two,
+.green-color-switcher .testimonial.home-two .carousel-indicators.home-two li.active,
+.green-color-switcher .post-content>a:hover,
+.green-color-switcher .post-pagination .pagination li.active a,
+.green-color-switcher .post-pagination .pagination li a:hover,
+.green-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-left:hover,
+.green-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-right:hover,
+.green-color-switcher .footer .footer-widget .widget-newsletter a.btn,
+.green-color-switcher .login-form-one-content .login-form-one h2,
+.green-color-switcher .login-form-one-content .login-form-one button,
+.green-color-switcher .author-comment-text span a.reply-btn:hover {
+    background: #00B249!important;
+}
+
+
+/*======Background RGBA Color=====*/
+
+.green-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-overlay,
+.green-color-switcher .member-overlay {
+    background-color: rgba(0, 178, 73, 0.5)!important;
+}
+
+
+/*==========Element Color=========*/
+
+.green-color-switcher .nav.navbar-nav li.active>a,
+.green-color-switcher .nav.navbar-nav li>a:hover,
+.green-color-switcher .topbar-social-icons ul li>a:hover,
+.green-color-switcher .service .service-iteam>a,
+.green-color-switcher .service .service-icon i,
+.green-color-switcher .call-to-action .btn,
+.green-color-switcher .company-info-counter .company-info-item i,
+.green-color-switcher .company-info-counter .company-info-item h1,
+.green-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-post-content span a,
+.green-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-overlay-content>a:hover,
+.green-color-switcher .testimonial .testi-content .client-info h2,
+.green-color-switcher .partner h1 span,
+.green-color-switcher .footer .widget-contact .widget-address h3 span,
+.green-color-switcher .footer .widget-list li:hover,
+.green-color-switcher .footer .widget-list li a:hover,
+.green-color-switcher .footer .widget-newsletter .widget-social a:hover,
+.green-color-switcher .footer .footer-menu li a:hover,
+.green-color-switcher .slide-content.home-two h2 span,
+.green-color-switcher .company-expertise-list p i,
+.green-color-switcher .post-meta .post-title>a:hover,
+.green-color-switcher .post-content>a,
+.green-color-switcher .blog-post-social-share ul li a,
+.green-color-switcher .related-blog-post #rel-blog-post-carousel p span .fa,
+.green-color-switcher .author-comment-text span a,
+.green-color-switcher .widget-search .widget-search-icon .fa,
+.green-color-switcher .widget-category ul li a:hover,
+.green-color-switcher .cont-address.contact-two a,
+.green-color-switcher .contact-info .cont-email a,
+.green-color-switcher .registration-form p>a,
+.green-color-switcher .registration-form .checkbox span a,
+.green-color-switcher .post-meta span a i,
+.green-color-switcher .pagination>li>a,
+.green-color-switcher .pagination>li>span,
+.green-color-switcher .cont-two-content i.fa {
+    color: #00B249!important;
+}
+
+
+/*======Font Color Different======*/
+
+.green-color-switcher .service-iteam:hover .service-icon i,
+.green-color-switcher .service .service-iteam>a:hover,
+.green-color-switcher .post-pagination .pagination li.active a,
+.green-color-switcher .post-pagination .pagination li a:hover,
+.green-color-switcher .post-content>a:hover,
+.green-color-switcher .author-comment-text span a.reply-btn:hover {
+    color: #fff!important;
+}
+
+
+/*==========Border Color==========*/
+
+.green-color-switcher .main-slider .slide-btn button,
+.green-color-switcher .main-slider .carousel-indicators li.active,
+.green-color-switcher .domain-serch .domain-search-form input.domain-search-btn,
+.green-color-switcher .service .service-icon i,
+.green-color-switcher .service .service-iteam>a,
+.green-color-switcher #pricing-carousel .carousel-indicators>li.active,
+.green-color-switcher .pricing .pricing-tringle,
+.green-color-switcher .footer .widget-newsletter .widget-social a:hover,
+.green-color-switcher .testimonial .carousel-indicators li.active,
+.green-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button,
+.green-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button.btn.btn-default.right:hover,
+.green-color-switcher .company-info-counter.home-two .company-info-item.home-two i,
+.green-color-switcher .testimonial.home-two .carousel-indicators.home-two li.active,
+.green-color-switcher .post-content>a,
+.green-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-left:hover,
+.green-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-right:hover,
+.green-color-switcher .author-comment-text span a,
+.green-color-switcher .registration-form-content.registration-pg-one .registration-form.registration-pg-one,
+.green-color-switcher .login-form-content.login-pg-one .login-form.login-pg-one,
+.green-color-switcher .post-pagination .pagination li.active a,
+.green-color-switcher .login-form-one-content .login-form-one {
+    border-color: #00B249!important;
+}
+
+
+/*===Border Color With Transparent===*/
+
+.green-color-switcher .pricing .pricing-tringle {
+    border-color: #00B249 transparent transparent!important;
+}
+
+
+/*=========Box Shadow Color==========*/
+
+.green-color-switcher .service-iteam.home-two .serv-icon i.home-two::after {
+    box-shadow: 0 0 0 4px #00B249!important;
+}
+
+
+/*------------------------------------------------------------------------------
+    Brown-Color
+------------------------------------------------------------------------------*/
+
+
+/*=======Background Color=======*/
+
+.brown-color-switcher .color-panel-spinner,
+.brown-color-switcher .site-color-panel .site-color-panel-box>h3,
+.brown-color-switcher .main-slider .slide-btn button:hover,
+.brown-color-switcher .double-bounce1,
+.brown-color-switcher #shopping-cart>span,
+.brown-color-switcher .double-bounce2,
+.brown-color-switcher .main-slider .slide-btn button.btn.btn-default.right,
+.brown-color-switcher .domain-serch .domain-search-form input.domain-search-btn,
+.brown-color-switcher .section-title .title-bottom-line,
+.brown-color-switcher .service-iteam:hover .service-icon i,
+.brown-color-switcher .service .service-iteam>a:hover,
+.brown-color-switcher .service-iteam.home-two .serv-icon i,
+.brown-color-switcher #pricing-carousel .carousel-indicators>li.active,
+.brown-color-switcher .pricing .pricing-plan .pricing-top,
+.brown-color-switcher .pricing .price-btn>a,
+.brown-color-switcher .call-to-action,
+.brown-color-switcher .member-overlay ul,
+.brown-color-switcher .member-info,
+.brown-color-switcher .progress-bar,
+.brown-color-switcher .latest-blog.home-default .blog-post-load-btn>a,
+.brown-color-switcher .comment-border,
+.brown-color-switcher .comment-form .comment-btn button,
+.brown-color-switcher .comment-form .comment-btn button:hover,
+.brown-color-switcher #widget-carousel .glyphicon.glyphicon-chevron-left:hover,
+.brown-color-switcher #widget-carousel .glyphicon.glyphicon-chevron-right:hover,
+.brown-color-switcher .widget-border,
+.brown-color-switcher .brown-color-switcher .widget-tagcloud .tagcloud-list li a,
+.brown-color-switcher .widget-tagcloud .tagcloud-list li a,
+.brown-color-switcher .pricing-top-two,
+.brown-color-switcher .pricing-price-two,
+.brown-color-switcher .pricing .price-btn-two>a,
+.brown-color-switcher .notfound-page .notfound-wrap .notfound-content a,
+.brown-color-switcher .contact .contact-form .btn.btn-default,
+.brown-color-switcher .cont-number.contact-two i.fa,
+.brown-color-switcher .cont-email.contact-two i.fa,
+.brown-color-switcher .cont-address.contact-two i.fa,
+.brown-color-switcher .contact-info .cont-social ul li a:hover,
+.brown-color-switcher .login-page .login-form button,
+.brown-color-switcher .login-form-content.login-pg-one .login-form.login-pg-one h2,
+.brown-color-switcher .registration-page .registration-form button,
+.brown-color-switcher .registration-form-content.registration-pg-one .registration-form.registration-pg-one h2,
+.brown-color-switcher .testimonial .carousel-indicators li.active,
+.brown-color-switcher .footer .footer-suprt-items,
+.brown-color-switcher .footer .live-chat span.chat-left,
+.brown-color-switcher .footer .live-chat span.chat-right,
+.brown-color-switcher .footer .totop>a,
+.brown-color-switcher #chat-accordion.panel-heading,
+.brown-color-switcher #chat-accordion.panel-heading .btn.btn-primary.btn-block.btn-xs,
+.brown-color-switcher .live-chat-wrapper #btn-chat,
+.brown-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button:hover,
+.brown-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button.btn.btn-default.right:hover,
+.brown-color-switcher .domain-serch.home-two .domain-search-form.home-two .domain-search-btn,
+.brown-color-switcher .domain-serch.home-two .domain-search-form.home-two .domain-search-btn:hover,
+.brown-color-switcher .service-iteam.home-two:hover i.home-two,
+.brown-color-switcher .testimonial.home-two .carousel-indicators.home-two li.active,
+.brown-color-switcher .post-content>a:hover,
+.brown-color-switcher .post-pagination .pagination li.active a,
+.brown-color-switcher .post-pagination .pagination li a:hover,
+.brown-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-left:hover,
+.brown-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-right:hover,
+.brown-color-switcher .footer .footer-widget .widget-newsletter a.btn,
+.brown-color-switcher .login-form-one-content .login-form-one h2,
+.brown-color-switcher .login-form-one-content .login-form-one button,
+.brown-color-switcher .author-comment-text span a.reply-btn:hover {
+    background: #8bc34a!important;
+}
+
+
+/*======Background RGBA Color=====*/
+
+.brown-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-overlay,
+.brown-color-switcher .member-overlay {
+    background-color: rgba(139, 195, 74, 0.5) !important;
+}
+
+
+/*==========Element Color=========*/
+
+.brown-color-switcher .nav.navbar-nav li.active>a,
+.brown-color-switcher .nav.navbar-nav li>a:hover,
+.brown-color-switcher .topbar-social-icons ul li>a:hover,
+.brown-color-switcher .service .service-iteam>a,
+.brown-color-switcher .service .service-icon i,
+.brown-color-switcher .call-to-action .btn,
+.brown-color-switcher .company-info-counter .company-info-item i,
+.brown-color-switcher .company-info-counter .company-info-item h1,
+.brown-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-post-content span a,
+.brown-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-overlay-content>a:hover,
+.brown-color-switcher .testimonial .testi-content .client-info h2,
+.brown-color-switcher .partner h1 span,
+.brown-color-switcher .footer .widget-contact .widget-address h3 span,
+.brown-color-switcher .footer .widget-list li:hover,
+.brown-color-switcher .footer .widget-list li a:hover,
+.brown-color-switcher .footer .widget-newsletter .widget-social a:hover,
+.brown-color-switcher .footer .footer-menu li a:hover,
+.brown-color-switcher .slide-content.home-two h2 span,
+.brown-color-switcher .company-expertise-list p i,
+.brown-color-switcher .post-meta .post-title>a:hover,
+.brown-color-switcher .post-content>a,
+.brown-color-switcher .blog-post-social-share ul li a,
+.brown-color-switcher .related-blog-post #rel-blog-post-carousel p span .fa,
+.brown-color-switcher .author-comment-text span a,
+.brown-color-switcher .widget-search .widget-search-icon .fa,
+.brown-color-switcher .widget-category ul li a:hover,
+.brown-color-switcher .cont-address.contact-two a,
+.brown-color-switcher .contact-info .cont-email a,
+.brown-color-switcher .registration-form p>a,
+.brown-color-switcher .registration-form .checkbox span a,
+.brown-color-switcher .post-meta span a i,
+.brown-color-switcher .pagination>li>a,
+.brown-color-switcher .pagination>li>span,
+.brown-color-switcher .cont-two-content i.fa {
+    color: #8bc34a!important;
+}
+
+
+/*======Font Color Different======*/
+
+.brown-color-switcher .service-iteam:hover .service-icon i,
+.brown-color-switcher .service .service-iteam>a:hover,
+.brown-color-switcher .post-pagination .pagination li.active a,
+.brown-color-switcher .post-pagination .pagination li a:hover,
+.brown-color-switcher .post-content>a:hover,
+.brown-color-switcher .author-comment-text span a.reply-btn:hover {
+    color: #fff!important;
+}
+
+
+/*==========Border Color==========*/
+
+.brown-color-switcher .main-slider .slide-btn button,
+.brown-color-switcher .main-slider .carousel-indicators li.active,
+.brown-color-switcher .domain-serch .domain-search-form input.domain-search-btn,
+.brown-color-switcher .service .service-icon i,
+.brown-color-switcher .service .service-iteam>a,
+.brown-color-switcher #pricing-carousel .carousel-indicators>li.active,
+.brown-color-switcher .pricing .pricing-tringle,
+.brown-color-switcher .footer .widget-newsletter .widget-social a:hover,
+.brown-color-switcher .testimonial .carousel-indicators li.active,
+.brown-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button,
+.brown-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button.btn.btn-default.right:hover,
+.brown-color-switcher .company-info-counter.home-two .company-info-item.home-two i,
+.brown-color-switcher .testimonial.home-two .carousel-indicators.home-two li.active,
+.brown-color-switcher .post-content>a,
+.brown-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-left:hover,
+.brown-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-right:hover,
+.brown-color-switcher .author-comment-text span a,
+.brown-color-switcher .registration-form-content.registration-pg-one .registration-form.registration-pg-one,
+.brown-color-switcher .login-form-content.login-pg-one .login-form.login-pg-one,
+.brown-color-switcher .post-pagination .pagination li.active a,
+.brown-color-switcher .login-form-one-content .login-form-one {
+    border-color: #8bc34a!important;
+}
+
+
+/*===Border Color With Transparent===*/
+
+.brown-color-switcher .pricing .pricing-tringle {
+    border-color: #8bc34a transparent transparent!important;
+}
+
+
+/*=========Box Shadow Color==========*/
+
+.brown-color-switcher .service-iteam.home-two .serv-icon i.home-two::after {
+    box-shadow: 0 0 0 4px #8bc34a!important;
+}
+
+
+/*------------------------------------------------------------------------------
+    LightSeaGreen-Color
+------------------------------------------------------------------------------*/
+
+
+/*=======Background Color=======*/
+
+.lightSeaGreen-color-switcher .color-panel-spinner,
+.lightSeaGreen-color-switcher .site-color-panel .site-color-panel-box>h3,
+.lightSeaGreen-color-switcher .main-slider .slide-btn button:hover,
+.lightSeaGreen-color-switcher .double-bounce1,
+.lightSeaGreen-color-switcher #shopping-cart>span,
+.lightSeaGreen-color-switcher .double-bounce2,
+.lightSeaGreen-color-switcher .main-slider .slide-btn button.btn.btn-default.right,
+.lightSeaGreen-color-switcher .domain-serch .domain-search-form input.domain-search-btn,
+.lightSeaGreen-color-switcher .section-title .title-bottom-line,
+.lightSeaGreen-color-switcher .service-iteam:hover .service-icon i,
+.lightSeaGreen-color-switcher .service .service-iteam>a:hover,
+.lightSeaGreen-color-switcher .service-iteam.home-two .serv-icon i,
+.lightSeaGreen-color-switcher #pricing-carousel .carousel-indicators>li.active,
+.lightSeaGreen-color-switcher .pricing .pricing-plan .pricing-top,
+.lightSeaGreen-color-switcher .pricing .price-btn>a,
+.lightSeaGreen-color-switcher .call-to-action,
+.lightSeaGreen-color-switcher .member-overlay ul,
+.lightSeaGreen-color-switcher .member-info,
+.lightSeaGreen-color-switcher .progress-bar,
+.lightSeaGreen-color-switcher .latest-blog.home-default .blog-post-load-btn>a,
+.lightSeaGreen-color-switcher .comment-border,
+.lightSeaGreen-color-switcher .comment-form .comment-btn button,
+.lightSeaGreen-color-switcher .comment-form .comment-btn button:hover,
+.lightSeaGreen-color-switcher #widget-carousel .glyphicon.glyphicon-chevron-left:hover,
+.lightSeaGreen-color-switcher #widget-carousel .glyphicon.glyphicon-chevron-right:hover,
+.lightSeaGreen-color-switcher .widget-border,
+.lightSeaGreen-color-switcher .lightSeaGreen-color-switcher .widget-tagcloud .tagcloud-list li a,
+.lightSeaGreen-color-switcher .widget-tagcloud .tagcloud-list li a,
+.lightSeaGreen-color-switcher .pricing-top-two,
+.lightSeaGreen-color-switcher .pricing-price-two,
+.lightSeaGreen-color-switcher .pricing .price-btn-two>a,
+.lightSeaGreen-color-switcher .notfound-page .notfound-wrap .notfound-content a,
+.lightSeaGreen-color-switcher .contact .contact-form .btn.btn-default,
+.lightSeaGreen-color-switcher .cont-number.contact-two i.fa,
+.lightSeaGreen-color-switcher .cont-email.contact-two i.fa,
+.lightSeaGreen-color-switcher .cont-address.contact-two i.fa,
+.lightSeaGreen-color-switcher .contact-info .cont-social ul li a:hover,
+.lightSeaGreen-color-switcher .login-page .login-form button,
+.lightSeaGreen-color-switcher .login-form-content.login-pg-one .login-form.login-pg-one h2,
+.lightSeaGreen-color-switcher .registration-page .registration-form button,
+.lightSeaGreen-color-switcher .registration-form-content.registration-pg-one .registration-form.registration-pg-one h2,
+.lightSeaGreen-color-switcher .testimonial .carousel-indicators li.active,
+.lightSeaGreen-color-switcher .footer .footer-suprt-items,
+.lightSeaGreen-color-switcher .footer .live-chat span.chat-left,
+.lightSeaGreen-color-switcher .footer .live-chat span.chat-right,
+.lightSeaGreen-color-switcher .footer .totop>a,
+.lightSeaGreen-color-switcher #chat-accordion.panel-heading,
+.lightSeaGreen-color-switcher #chat-accordion.panel-heading .btn.btn-primary.btn-block.btn-xs,
+.lightSeaGreen-color-switcher .live-chat-wrapper #btn-chat,
+.lightSeaGreen-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button:hover,
+.lightSeaGreen-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button.btn.btn-default.right:hover,
+.lightSeaGreen-color-switcher .domain-serch.home-two .domain-search-form.home-two .domain-search-btn,
+.lightSeaGreen-color-switcher .domain-serch.home-two .domain-search-form.home-two .domain-search-btn:hover,
+.lightSeaGreen-color-switcher .service-iteam.home-two:hover i.home-two,
+.lightSeaGreen-color-switcher .testimonial.home-two .carousel-indicators.home-two li.active,
+.lightSeaGreen-color-switcher .post-content>a:hover,
+.lightSeaGreen-color-switcher .post-pagination .pagination li.active a,
+.lightSeaGreen-color-switcher .post-pagination .pagination li a:hover,
+.lightSeaGreen-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-left:hover,
+.lightSeaGreen-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-right:hover,
+.lightSeaGreen-color-switcher .footer .footer-widget .widget-newsletter a.btn,
+.lightSeaGreen-color-switcher .login-form-one-content .login-form-one h2,
+.lightSeaGreen-color-switcher .login-form-one-content .login-form-one button,
+.lightSeaGreen-color-switcher .author-comment-text span a.reply-btn:hover {
+    background: #e91e63!important;
+}
+
+
+/*======Background RGBA Color=====*/
+
+.lightSeaGreen-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-overlay,
+.lightSeaGreen-color-switcher .member-overlay {
+    background-color: rgba(233, 30, 93, 0.5) !important;
+}
+
+
+/*==========Element Color=========*/
+
+.lightSeaGreen-color-switcher .nav.navbar-nav li.active>a,
+.lightSeaGreen-color-switcher .nav.navbar-nav li>a:hover,
+.lightSeaGreen-color-switcher .topbar-social-icons ul li>a:hover,
+.lightSeaGreen-color-switcher .service .service-iteam>a,
+.lightSeaGreen-color-switcher .service .service-icon i,
+.lightSeaGreen-color-switcher .call-to-action .btn,
+.lightSeaGreen-color-switcher .company-info-counter .company-info-item i,
+.lightSeaGreen-color-switcher .company-info-counter .company-info-item h1,
+.lightSeaGreen-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-post-content span a,
+.lightSeaGreen-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-overlay-content>a:hover,
+.lightSeaGreen-color-switcher .testimonial .testi-content .client-info h2,
+.lightSeaGreen-color-switcher .partner h1 span,
+.lightSeaGreen-color-switcher .footer .widget-contact .widget-address h3 span,
+.lightSeaGreen-color-switcher .footer .widget-list li:hover,
+.lightSeaGreen-color-switcher .footer .widget-list li a:hover,
+.lightSeaGreen-color-switcher .footer .widget-newsletter .widget-social a:hover,
+.lightSeaGreen-color-switcher .footer .footer-menu li a:hover,
+.lightSeaGreen-color-switcher .slide-content.home-two h2 span,
+.lightSeaGreen-color-switcher .company-expertise-list p i,
+.lightSeaGreen-color-switcher .post-meta .post-title>a:hover,
+.lightSeaGreen-color-switcher .post-content>a,
+.lightSeaGreen-color-switcher .blog-post-social-share ul li a,
+.lightSeaGreen-color-switcher .related-blog-post #rel-blog-post-carousel p span .fa,
+.lightSeaGreen-color-switcher .author-comment-text span a,
+.lightSeaGreen-color-switcher .widget-search .widget-search-icon .fa,
+.lightSeaGreen-color-switcher .widget-category ul li a:hover,
+.lightSeaGreen-color-switcher .cont-address.contact-two a,
+.lightSeaGreen-color-switcher .contact-info .cont-email a,
+.lightSeaGreen-color-switcher .registration-form p>a,
+.lightSeaGreen-color-switcher .registration-form .checkbox span a,
+.lightSeaGreen-color-switcher .post-meta span a i,
+.lightSeaGreen-color-switcher .pagination>li>a,
+.lightSeaGreen-color-switcher .pagination>li>span,
+.lightSeaGreen-color-switcher .cont-two-content i.fa {
+    color: #e91e63!important;
+}
+
+
+/*======Font Color Different======*/
+
+.lightSeaGreen-color-switcher .service-iteam:hover .service-icon i,
+.lightSeaGreen-color-switcher .service .service-iteam>a:hover,
+.lightSeaGreen-color-switcher .post-pagination .pagination li.active a,
+.lightSeaGreen-color-switcher .post-pagination .pagination li a:hover,
+.lightSeaGreen-color-switcher .post-content>a:hover,
+.lightSeaGreen-color-switcher .author-comment-text span a.reply-btn:hover {
+    color: #fff!important;
+}
+
+
+/*==========Border Color==========*/
+
+.lightSeaGreen-color-switcher .main-slider .slide-btn button,
+.lightSeaGreen-color-switcher .main-slider .carousel-indicators li.active,
+.lightSeaGreen-color-switcher .domain-serch .domain-search-form input.domain-search-btn,
+.lightSeaGreen-color-switcher .service .service-icon i,
+.lightSeaGreen-color-switcher .service .service-iteam>a,
+.lightSeaGreen-color-switcher #pricing-carousel .carousel-indicators>li.active,
+.lightSeaGreen-color-switcher .pricing .pricing-tringle,
+.lightSeaGreen-color-switcher .footer .widget-newsletter .widget-social a:hover,
+.lightSeaGreen-color-switcher .testimonial .carousel-indicators li.active,
+.lightSeaGreen-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button,
+.lightSeaGreen-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button.btn.btn-default.right:hover,
+.lightSeaGreen-color-switcher .company-info-counter.home-two .company-info-item.home-two i,
+.lightSeaGreen-color-switcher .testimonial.home-two .carousel-indicators.home-two li.active,
+.lightSeaGreen-color-switcher .post-content>a,
+.lightSeaGreen-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-left:hover,
+.lightSeaGreen-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-right:hover,
+.lightSeaGreen-color-switcher .author-comment-text span a,
+.lightSeaGreen-color-switcher .registration-form-content.registration-pg-one .registration-form.registration-pg-one,
+.lightSeaGreen-color-switcher .login-form-content.login-pg-one .login-form.login-pg-one,
+.lightSeaGreen-color-switcher .post-pagination .pagination li.active a,
+.lightSeaGreen-color-switcher .login-form-one-content .login-form-one {
+    border-color: #e91e63!important;
+}
+
+
+/*===Border Color With Transparent===*/
+
+.lightSeaGreen-color-switcher .pricing .pricing-tringle {
+    border-color: #e91e63 transparent transparent!important;
+}
+
+
+/*=========Box Shadow Color==========*/
+
+.lightSeaGreen-color-switcher .service-iteam.home-two .serv-icon i.home-two::after {
+    box-shadow: 0 0 0 4px #e91e63!important;
+}
+
+
+/*------------------------------------------------------------------------------
+    Red-Color 
+------------------------------------------------------------------------------*/
+
+
+/*=======Background Color=======*/
+
+.red-color-switcher .color-panel-spinner,
+.red-color-switcher .site-color-panel .site-color-panel-box>h3,
+.red-color-switcher .main-slider .slide-btn button:hover,
+.red-color-switcher .double-bounce1,
+.red-color-switcher #shopping-cart>span,
+.red-color-switcher .double-bounce2,
+.red-color-switcher .main-slider .slide-btn button.btn.btn-default.right,
+.red-color-switcher .domain-serch .domain-search-form input.domain-search-btn,
+.red-color-switcher .section-title .title-bottom-line,
+.red-color-switcher .service-iteam:hover .service-icon i,
+.red-color-switcher .service .service-iteam>a:hover,
+.red-color-switcher .service-iteam.home-two .serv-icon i,
+.red-color-switcher #pricing-carousel .carousel-indicators>li.active,
+.red-color-switcher .pricing .pricing-plan .pricing-top,
+.red-color-switcher .pricing .price-btn>a,
+.red-color-switcher .call-to-action,
+.red-color-switcher .member-overlay ul,
+.red-color-switcher .member-info,
+.red-color-switcher .progress-bar,
+.red-color-switcher .latest-blog.home-default .blog-post-load-btn>a,
+.red-color-switcher .comment-border,
+.red-color-switcher .comment-form .comment-btn button,
+.red-color-switcher .comment-form .comment-btn button:hover,
+.red-color-switcher #widget-carousel .glyphicon.glyphicon-chevron-left:hover,
+.red-color-switcher #widget-carousel .glyphicon.glyphicon-chevron-right:hover,
+.red-color-switcher .widget-border,
+.red-color-switcher .red-color-switcher .widget-tagcloud .tagcloud-list li a,
+.red-color-switcher .widget-tagcloud .tagcloud-list li a,
+.red-color-switcher .pricing-top-two,
+.red-color-switcher .pricing-price-two,
+.red-color-switcher .pricing .price-btn-two>a,
+.red-color-switcher .notfound-page .notfound-wrap .notfound-content a,
+.red-color-switcher .contact .contact-form .btn.btn-default,
+.red-color-switcher .cont-number.contact-two i.fa,
+.red-color-switcher .cont-email.contact-two i.fa,
+.red-color-switcher .cont-address.contact-two i.fa,
+.red-color-switcher .contact-info .cont-social ul li a:hover,
+.red-color-switcher .login-page .login-form button,
+.red-color-switcher .login-form-content.login-pg-one .login-form.login-pg-one h2,
+.red-color-switcher .registration-page .registration-form button,
+.red-color-switcher .registration-form-content.registration-pg-one .registration-form.registration-pg-one h2,
+.red-color-switcher .testimonial .carousel-indicators li.active,
+.red-color-switcher .footer .footer-suprt-items,
+.red-color-switcher .footer .live-chat span.chat-left,
+.red-color-switcher .footer .live-chat span.chat-right,
+.red-color-switcher .footer .totop>a,
+.red-color-switcher #chat-accordion.panel-heading,
+.red-color-switcher #chat-accordion.panel-heading .btn.btn-primary.btn-block.btn-xs,
+.red-color-switcher .live-chat-wrapper #btn-chat,
+.red-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button:hover,
+.red-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button.btn.btn-default.right:hover,
+.red-color-switcher .domain-serch.home-two .domain-search-form.home-two .domain-search-btn,
+.red-color-switcher .domain-serch.home-two .domain-search-form.home-two .domain-search-btn:hover,
+.red-color-switcher .service-iteam.home-two:hover i.home-two,
+.red-color-switcher .testimonial.home-two .carousel-indicators.home-two li.active,
+.red-color-switcher .post-content>a:hover,
+.red-color-switcher .post-pagination .pagination li.active a,
+.red-color-switcher .post-pagination .pagination li a:hover,
+.red-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-left:hover,
+.red-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-right:hover,
+.red-color-switcher .footer .footer-widget .widget-newsletter a.btn,
+.red-color-switcher .login-form-one-content .login-form-one h2,
+.red-color-switcher .login-form-one-content .login-form-one button,
+.red-color-switcher .author-comment-text span a.reply-btn:hover {
+    background: #00BCD4!important;
+}
+
+
+/*======Background RGBA Color=====*/
+
+.red-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-overlay,
+.red-color-switcher .member-overlay {
+    background-color: rgba(0, 188, 212, 0.5) !important;
+}
+
+
+/*==========Element Color=========*/
+
+.red-color-switcher .nav.navbar-nav li.active>a,
+.red-color-switcher .nav.navbar-nav li>a:hover,
+.red-color-switcher .topbar-social-icons ul li>a:hover,
+.red-color-switcher .service .service-iteam>a,
+.red-color-switcher .service .service-icon i,
+.red-color-switcher .call-to-action .btn,
+.red-color-switcher .company-info-counter .company-info-item i,
+.red-color-switcher .company-info-counter .company-info-item h1,
+.red-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-post-content span a,
+.red-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-overlay-content>a:hover,
+.red-color-switcher .testimonial .testi-content .client-info h2,
+.red-color-switcher .partner h1 span,
+.red-color-switcher .footer .widget-contact .widget-address h3 span,
+.red-color-switcher .footer .widget-list li:hover,
+.red-color-switcher .footer .widget-list li a:hover,
+.red-color-switcher .footer .widget-newsletter .widget-social a:hover,
+.red-color-switcher .footer .footer-menu li a:hover,
+.red-color-switcher .slide-content.home-two h2 span,
+.red-color-switcher .company-expertise-list p i,
+.red-color-switcher .post-meta .post-title>a:hover,
+.red-color-switcher .post-content>a,
+.red-color-switcher .blog-post-social-share ul li a,
+.red-color-switcher .related-blog-post #rel-blog-post-carousel p span .fa,
+.red-color-switcher .author-comment-text span a,
+.red-color-switcher .widget-search .widget-search-icon .fa,
+.red-color-switcher .widget-category ul li a:hover,
+.red-color-switcher .cont-address.contact-two a,
+.red-color-switcher .contact-info .cont-email a,
+.red-color-switcher .registration-form p>a,
+.red-color-switcher .registration-form .checkbox span a,
+.red-color-switcher .post-meta span a i,
+.red-color-switcher .pagination>li>a,
+.red-color-switcher .pagination>li>span,
+.red-color-switcher .cont-two-content i.fa {
+    color: #00BCD4!important;
+}
+
+
+/*======Font Color Different======*/
+
+.red-color-switcher .service-iteam:hover .service-icon i,
+.red-color-switcher .service .service-iteam>a:hover,
+.red-color-switcher .post-pagination .pagination li.active a,
+.red-color-switcher .post-pagination .pagination li a:hover,
+.red-color-switcher .post-content>a:hover,
+.red-color-switcher .author-comment-text span a.reply-btn:hover {
+    color: #fff!important;
+}
+
+
+/*==========Border Color==========*/
+
+.red-color-switcher .main-slider .slide-btn button,
+.red-color-switcher .main-slider .carousel-indicators li.active,
+.red-color-switcher .domain-serch .domain-search-form input.domain-search-btn,
+.red-color-switcher .service .service-icon i,
+.red-color-switcher .service .service-iteam>a,
+.red-color-switcher #pricing-carousel .carousel-indicators>li.active,
+.red-color-switcher .pricing .pricing-tringle,
+.red-color-switcher .footer .widget-newsletter .widget-social a:hover,
+.red-color-switcher .testimonial .carousel-indicators li.active,
+.red-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button,
+.red-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button.btn.btn-default.right:hover,
+.red-color-switcher .company-info-counter.home-two .company-info-item.home-two i,
+.red-color-switcher .testimonial.home-two .carousel-indicators.home-two li.active,
+.red-color-switcher .post-content>a,
+.red-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-left:hover,
+.red-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-right:hover,
+.red-color-switcher .author-comment-text span a,
+.red-color-switcher .registration-form-content.registration-pg-one .registration-form.registration-pg-one,
+.red-color-switcher .login-form-content.login-pg-one .login-form.login-pg-one,
+.red-color-switcher .post-pagination .pagination li.active a,
+.red-color-switcher .login-form-one-content .login-form-one {
+    border-color: #00BCD4!important;
+}
+
+
+/*===Border Color With Transparent===*/
+
+.red-color-switcher .pricing .pricing-tringle {
+    border-color: #00BCD4 transparent transparent!important;
+}
+
+
+/*==========Box Shadow Color=========*/
+
+.red-color-switcher .service-iteam.home-two .serv-icon i.home-two::after {
+    box-shadow: 0 0 0 4px #00BCD4!important;
+}
+
+
+/*------------------------------------------------------------------------------
+    Cyan-Color
+------------------------------------------------------------------------------*/
+
+
+/*=======Background Color=======*/
+
+.cyan-color-switcher .color-panel-spinner,
+.cyan-color-switcher .site-color-panel .site-color-panel-box>h3,
+.cyan-color-switcher .main-slider .slide-btn button:hover,
+.cyan-color-switcher .double-bounce1,
+.cyan-color-switcher #shopping-cart>span,
+.cyan-color-switcher .double-bounce2,
+.cyan-color-switcher .main-slider .slide-btn button.btn.btn-default.right,
+.cyan-color-switcher .domain-serch .domain-search-form input.domain-search-btn,
+.cyan-color-switcher .section-title .title-bottom-line,
+.cyan-color-switcher .service-iteam:hover .service-icon i,
+.cyan-color-switcher .service .service-iteam>a:hover,
+.cyan-color-switcher .service-iteam.home-two .serv-icon i,
+.cyan-color-switcher #pricing-carousel .carousel-indicators>li.active,
+.cyan-color-switcher .pricing .pricing-plan .pricing-top,
+.cyan-color-switcher .pricing .price-btn>a,
+.cyan-color-switcher .call-to-action,
+.cyan-color-switcher .member-overlay ul,
+.cyan-color-switcher .member-info,
+.cyan-color-switcher .progress-bar,
+.cyan-color-switcher .latest-blog.home-default .blog-post-load-btn>a,
+.cyan-color-switcher .comment-border,
+.cyan-color-switcher .comment-form .comment-btn button,
+.cyan-color-switcher .comment-form .comment-btn button:hover,
+.cyan-color-switcher #widget-carousel .glyphicon.glyphicon-chevron-left:hover,
+.cyan-color-switcher #widget-carousel .glyphicon.glyphicon-chevron-right:hover,
+.cyan-color-switcher .widget-border,
+.cyan-color-switcher .cyan-color-switcher .widget-tagcloud .tagcloud-list li a,
+.cyan-color-switcher .widget-tagcloud .tagcloud-list li a,
+.cyan-color-switcher .pricing-top-two,
+.cyan-color-switcher .pricing-price-two,
+.cyan-color-switcher .pricing .price-btn-two>a,
+.cyan-color-switcher .notfound-page .notfound-wrap .notfound-content a,
+.cyan-color-switcher .contact .contact-form .btn.btn-default,
+.cyan-color-switcher .cont-number.contact-two i.fa,
+.cyan-color-switcher .cont-email.contact-two i.fa,
+.cyan-color-switcher .cont-address.contact-two i.fa,
+.cyan-color-switcher .contact-info .cont-social ul li a:hover,
+.cyan-color-switcher .login-page .login-form button,
+.cyan-color-switcher .login-form-content.login-pg-one .login-form.login-pg-one h2,
+.cyan-color-switcher .registration-page .registration-form button,
+.cyan-color-switcher .registration-form-content.registration-pg-one .registration-form.registration-pg-one h2,
+.cyan-color-switcher .testimonial .carousel-indicators li.active,
+.cyan-color-switcher .footer .footer-suprt-items,
+.cyan-color-switcher .footer .live-chat span.chat-left,
+.cyan-color-switcher .footer .live-chat span.chat-right,
+.cyan-color-switcher .footer .totop>a,
+.cyan-color-switcher #chat-accordion.panel-heading,
+.cyan-color-switcher #chat-accordion.panel-heading .btn.btn-primary.btn-block.btn-xs,
+.cyan-color-switcher .live-chat-wrapper #btn-chat,
+.cyan-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button:hover,
+.cyan-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button.btn.btn-default.right:hover,
+.cyan-color-switcher .domain-serch.home-two .domain-search-form.home-two .domain-search-btn,
+.cyan-color-switcher .domain-serch.home-two .domain-search-form.home-two .domain-search-btn:hover,
+.cyan-color-switcher .service-iteam.home-two:hover i.home-two,
+.cyan-color-switcher .testimonial.home-two .carousel-indicators.home-two li.active,
+.cyan-color-switcher .post-content>a:hover,
+.cyan-color-switcher .post-pagination .pagination li.active a,
+.cyan-color-switcher .post-pagination .pagination li a:hover,
+.cyan-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-left:hover,
+.cyan-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-right:hover,
+.cyan-color-switcher .footer .footer-widget .widget-newsletter a.btn,
+.cyan-color-switcher .login-form-one-content .login-form-one h2,
+.cyan-color-switcher .login-form-one-content .login-form-one button,
+.cyan-color-switcher .author-comment-text span a.reply-btn:hover {
+    background: #8e44ad!important;
+}
+
+
+/*======Background RGBA Color=====*/
+
+.cyan-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-overlay,
+.cyan-color-switcher .member-overlay {
+    background-color: rgba(142, 68, 173, 0.5) !important;
+}
+
+
+/*==========Element Color=========*/
+
+.cyan-color-switcher .nav.navbar-nav li.active>a,
+.cyan-color-switcher .nav.navbar-nav li>a:hover,
+.cyan-color-switcher .topbar-social-icons ul li>a:hover,
+.cyan-color-switcher .service .service-iteam>a,
+.cyan-color-switcher .service .service-icon i,
+.cyan-color-switcher .call-to-action .btn,
+.cyan-color-switcher .company-info-counter .company-info-item i,
+.cyan-color-switcher .company-info-counter .company-info-item h1,
+.cyan-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-post-content span a,
+.cyan-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-overlay-content>a:hover,
+.cyan-color-switcher .testimonial .testi-content .client-info h2,
+.cyan-color-switcher .partner h1 span,
+.cyan-color-switcher .footer .widget-contact .widget-address h3 span,
+.cyan-color-switcher .footer .widget-list li:hover,
+.cyan-color-switcher .footer .widget-list li a:hover,
+.cyan-color-switcher .footer .widget-newsletter .widget-social a:hover,
+.cyan-color-switcher .footer .footer-menu li a:hover,
+.cyan-color-switcher .slide-content.home-two h2 span,
+.cyan-color-switcher .company-expertise-list p i,
+.cyan-color-switcher .post-meta .post-title>a:hover,
+.cyan-color-switcher .post-content>a,
+.cyan-color-switcher .blog-post-social-share ul li a,
+.cyan-color-switcher .related-blog-post #rel-blog-post-carousel p span .fa,
+.cyan-color-switcher .author-comment-text span a,
+.cyan-color-switcher .widget-search .widget-search-icon .fa,
+.cyan-color-switcher .widget-category ul li a:hover,
+.cyan-color-switcher .cont-address.contact-two a,
+.cyan-color-switcher .contact-info .cont-email a,
+.cyan-color-switcher .registration-form p>a,
+.cyan-color-switcher .registration-form .checkbox span a,
+.cyan-color-switcher .post-meta span a i,
+.cyan-color-switcher .pagination>li>a,
+.cyan-color-switcher .pagination>li>span,
+.cyan-color-switcher .cont-two-content i.fa {
+    color: #8e44ad!important;
+}
+
+
+/*======Font Color Different======*/
+
+.cyan-color-switcher .service-iteam:hover .service-icon i,
+.cyan-color-switcher .service .service-iteam>a:hover,
+.cyan-color-switcher .post-pagination .pagination li.active a,
+.cyan-color-switcher .post-pagination .pagination li a:hover,
+.cyan-color-switcher .post-content>a:hover,
+.cyan-color-switcher .author-comment-text span a.reply-btn:hover {
+    color: #fff!important;
+}
+
+
+/*==========Border Color==========*/
+
+.cyan-color-switcher .main-slider .slide-btn button,
+.cyan-color-switcher .main-slider .carousel-indicators li.active,
+.cyan-color-switcher .domain-serch .domain-search-form input.domain-search-btn,
+.cyan-color-switcher .service .service-icon i,
+.cyan-color-switcher .service .service-iteam>a,
+.cyan-color-switcher #pricing-carousel .carousel-indicators>li.active,
+.cyan-color-switcher .pricing .pricing-tringle,
+.cyan-color-switcher .footer .widget-newsletter .widget-social a:hover,
+.cyan-color-switcher .testimonial .carousel-indicators li.active,
+.cyan-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button,
+.cyan-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button.btn.btn-default.right:hover,
+.cyan-color-switcher .company-info-counter.home-two .company-info-item.home-two i,
+.cyan-color-switcher .testimonial.home-two .carousel-indicators.home-two li.active,
+.cyan-color-switcher .post-content>a,
+.cyan-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-left:hover,
+.cyan-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-right:hover,
+.cyan-color-switcher .author-comment-text span a,
+.cyan-color-switcher .registration-form-content.registration-pg-one .registration-form.registration-pg-one,
+.cyan-color-switcher .login-form-content.login-pg-one .login-form.login-pg-one,
+.cyan-color-switcher .post-pagination .pagination li.active a,
+.cyan-color-switcher .login-form-one-content .login-form-one {
+    border-color: #8e44ad!important;
+}
+
+
+/*===Border Color With Transparent===*/
+
+.cyan-color-switcher .pricing .pricing-tringle {
+    border-color: #8e44ad transparent transparent!important;
+}
+
+
+/*=========Box Shadow Color=========*/
+
+.cyan-color-switcher .service-iteam.home-two .serv-icon i.home-two::after {
+    box-shadow: 0 0 0 4px #8e44ad!important;
+}
+
+
+/*------------------------------------------------------------------------------
+    Violet-Color
+------------------------------------------------------------------------------*/
+
+
+/*=======Background Color=======*/
+
+.violet-color-switcher .color-panel-spinner,
+.violet-color-switcher .site-color-panel .site-color-panel-box>h3,
+.violet-color-switcher .main-slider .slide-btn button:hover,
+.violet-color-switcher .double-bounce1,
+.violet-color-switcher #shopping-cart>span,
+.violet-color-switcher .double-bounce2,
+.violet-color-switcher .main-slider .slide-btn button.btn.btn-default.right,
+.violet-color-switcher .domain-serch .domain-search-form input.domain-search-btn,
+.violet-color-switcher .section-title .title-bottom-line,
+.violet-color-switcher .service-iteam:hover .service-icon i,
+.violet-color-switcher .service .service-iteam>a:hover,
+.violet-color-switcher .service-iteam.home-two .serv-icon i,
+.violet-color-switcher #pricing-carousel .carousel-indicators>li.active,
+.violet-color-switcher .pricing .pricing-plan .pricing-top,
+.violet-color-switcher .pricing .price-btn>a,
+.violet-color-switcher .call-to-action,
+.violet-color-switcher .member-overlay ul,
+.violet-color-switcher .member-info,
+.violet-color-switcher .progress-bar,
+.violet-color-switcher .latest-blog.home-default .blog-post-load-btn>a,
+.violet-color-switcher .comment-border,
+.violet-color-switcher .comment-form .comment-btn button,
+.violet-color-switcher .comment-form .comment-btn button:hover,
+.violet-color-switcher #widget-carousel .glyphicon.glyphicon-chevron-left:hover,
+.violet-color-switcher #widget-carousel .glyphicon.glyphicon-chevron-right:hover,
+.violet-color-switcher .widget-border,
+.violet-color-switcher .violet-color-switcher .widget-tagcloud .tagcloud-list li a,
+.violet-color-switcher .widget-tagcloud .tagcloud-list li a,
+.violet-color-switcher .pricing-top-two,
+.violet-color-switcher .pricing-price-two,
+.violet-color-switcher .pricing .price-btn-two>a,
+.violet-color-switcher .notfound-page .notfound-wrap .notfound-content a,
+.violet-color-switcher .contact .contact-form .btn.btn-default,
+.violet-color-switcher .cont-number.contact-two i.fa,
+.violet-color-switcher .cont-email.contact-two i.fa,
+.violet-color-switcher .cont-address.contact-two i.fa,
+.violet-color-switcher .contact-info .cont-social ul li a:hover,
+.violet-color-switcher .login-page .login-form button,
+.violet-color-switcher .login-form-content.login-pg-one .login-form.login-pg-one h2,
+.violet-color-switcher .registration-page .registration-form button,
+.violet-color-switcher .registration-form-content.registration-pg-one .registration-form.registration-pg-one h2,
+.violet-color-switcher .testimonial .carousel-indicators li.active,
+.violet-color-switcher .footer .footer-suprt-items,
+.violet-color-switcher .footer .live-chat span.chat-left,
+.violet-color-switcher .footer .live-chat span.chat-right,
+.violet-color-switcher .footer .totop>a,
+.violet-color-switcher #chat-accordion.panel-heading,
+.violet-color-switcher #chat-accordion.panel-heading .btn.btn-primary.btn-block.btn-xs,
+.violet-color-switcher .live-chat-wrapper #btn-chat,
+.violet-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button:hover,
+.violet-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button.btn.btn-default.right:hover,
+.violet-color-switcher .domain-serch.home-two .domain-search-form.home-two .domain-search-btn,
+.violet-color-switcher .domain-serch.home-two .domain-search-form.home-two .domain-search-btn:hover,
+.violet-color-switcher .service-iteam.home-two:hover i.home-two,
+.violet-color-switcher .testimonial.home-two .carousel-indicators.home-two li.active,
+.violet-color-switcher .post-content>a:hover,
+.violet-color-switcher .post-pagination .pagination li.active a,
+.violet-color-switcher .post-pagination .pagination li a:hover,
+.violet-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-left:hover,
+.violet-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-right:hover,
+.violet-color-switcher .footer .footer-widget .widget-newsletter a.btn,
+.violet-color-switcher .login-form-one-content .login-form-one h2,
+.violet-color-switcher .login-form-one-content .login-form-one button,
+.violet-color-switcher .author-comment-text span a.reply-btn:hover {
+    background: #ff5252!important;
+}
+
+
+/*======Background RGBA Color=====*/
+
+.violet-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-overlay,
+.violet-color-switcher .member-overlay {
+    background-color: rgba(255, 82, 82, 0.5) !important;
+}
+
+
+/*==========Element Color=========*/
+
+.violet-color-switcher .nav.navbar-nav li.active>a,
+.violet-color-switcher .nav.navbar-nav li>a:hover,
+.violet-color-switcher .topbar-social-icons ul li>a:hover,
+.violet-color-switcher .service .service-iteam>a,
+.violet-color-switcher .service .service-icon i,
+.violet-color-switcher .call-to-action .btn,
+.violet-color-switcher .company-info-counter .company-info-item i,
+.violet-color-switcher .company-info-counter .company-info-item h1,
+.violet-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-post-content span a,
+.violet-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-overlay-content>a:hover,
+.violet-color-switcher .testimonial .testi-content .client-info h2,
+.violet-color-switcher .partner h1 span,
+.violet-color-switcher .footer .widget-contact .widget-address h3 span,
+.violet-color-switcher .footer .widget-list li:hover,
+.violet-color-switcher .footer .widget-list li a:hover,
+.violet-color-switcher .footer .widget-newsletter .widget-social a:hover,
+.violet-color-switcher .footer .footer-menu li a:hover,
+.violet-color-switcher .slide-content.home-two h2 span,
+.violet-color-switcher .company-expertise-list p i,
+.violet-color-switcher .post-meta .post-title>a:hover,
+.violet-color-switcher .post-content>a,
+.violet-color-switcher .blog-post-social-share ul li a,
+.violet-color-switcher .related-blog-post #rel-blog-post-carousel p span .fa,
+.violet-color-switcher .author-comment-text span a,
+.violet-color-switcher .widget-search .widget-search-icon .fa,
+.violet-color-switcher .widget-category ul li a:hover,
+.violet-color-switcher .cont-address.contact-two a,
+.violet-color-switcher .contact-info .cont-email a,
+.violet-color-switcher .registration-form p>a,
+.violet-color-switcher .registration-form .checkbox span a,
+.violet-color-switcher .post-meta span a i,
+.violet-color-switcher .pagination>li>a,
+.violet-color-switcher .pagination>li>span,
+.violet-color-switcher .cont-two-content i.fa {
+    color: #ff5252!important;
+}
+
+
+/*======Font Color Different======*/
+
+.violet-color-switcher .service-iteam:hover .service-icon i,
+.violet-color-switcher .service .service-iteam>a:hover,
+.violet-color-switcher .post-pagination .pagination li.active a,
+.violet-color-switcher .post-pagination .pagination li a:hover,
+.violet-color-switcher .post-content>a:hover,
+.violet-color-switcher .author-comment-text span a.reply-btn:hover {
+    color: #fff!important;
+}
+
+
+/*==========Border Color==========*/
+
+.violet-color-switcher .main-slider .slide-btn button,
+.violet-color-switcher .main-slider .carousel-indicators li.active,
+.violet-color-switcher .domain-serch .domain-search-form input.domain-search-btn,
+.violet-color-switcher .service .service-icon i,
+.violet-color-switcher .service .service-iteam>a,
+.violet-color-switcher #pricing-carousel .carousel-indicators>li.active,
+.violet-color-switcher .pricing .pricing-tringle,
+.violet-color-switcher .footer .widget-newsletter .widget-social a:hover,
+.violet-color-switcher .testimonial .carousel-indicators li.active,
+.violet-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button,
+.violet-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button.btn.btn-default.right:hover,
+.violet-color-switcher .company-info-counter.home-two .company-info-item.home-two i,
+.violet-color-switcher .testimonial.home-two .carousel-indicators.home-two li.active,
+.violet-color-switcher .post-content>a,
+.violet-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-left:hover,
+.violet-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-right:hover,
+.violet-color-switcher .author-comment-text span a,
+.violet-color-switcher .registration-form-content.registration-pg-one .registration-form.registration-pg-one,
+.violet-color-switcher .login-form-content.login-pg-one .login-form.login-pg-one,
+.violet-color-switcher .post-pagination .pagination li.active a,
+.violet-color-switcher .login-form-one-content .login-form-one {
+    border-color: #ff5252!important;
+}
+
+
+/*===Border Color With Transparent===*/
+
+.violet-color-switcher .pricing .pricing-tringle {
+    border-color: #ff5252 transparent transparent!important;
+}
+
+
+/*=========Box Shadow Color==========*/
+
+.violet-color-switcher .service-iteam.home-two .serv-icon i.home-two::after {
+    box-shadow: 0 0 0 4px #ff5252!important;
+}
+
+
+/*------------------------------------------------------------------------------
+    Lime-Color
+------------------------------------------------------------------------------*/
+
+
+/*=======Background Color=======*/
+
+.lime-color-switcher .color-panel-spinner,
+.lime-color-switcher .site-color-panel .site-color-panel-box>h3,
+.lime-color-switcher .main-slider .slide-btn button:hover,
+.lime-color-switcher .double-bounce1,
+.lime-color-switcher #shopping-cart>span,
+.lime-color-switcher .double-bounce2,
+.lime-color-switcher .main-slider .slide-btn button.btn.btn-default.right,
+.lime-color-switcher .domain-serch .domain-search-form input.domain-search-btn,
+.lime-color-switcher .section-title .title-bottom-line,
+.lime-color-switcher .service-iteam:hover .service-icon i,
+.lime-color-switcher .service .service-iteam>a:hover,
+.lime-color-switcher .service-iteam.home-two .serv-icon i,
+.lime-color-switcher #pricing-carousel .carousel-indicators>li.active,
+.lime-color-switcher .pricing .pricing-plan .pricing-top,
+.lime-color-switcher .pricing .price-btn>a,
+.lime-color-switcher .call-to-action,
+.lime-color-switcher .member-overlay ul,
+.lime-color-switcher .member-info,
+.lime-color-switcher .progress-bar,
+.lime-color-switcher .latest-blog.home-default .blog-post-load-btn>a,
+.lime-color-switcher .comment-border,
+.lime-color-switcher .comment-form .comment-btn button,
+.lime-color-switcher .comment-form .comment-btn button:hover,
+.lime-color-switcher #widget-carousel .glyphicon.glyphicon-chevron-left:hover,
+.lime-color-switcher #widget-carousel .glyphicon.glyphicon-chevron-right:hover,
+.lime-color-switcher .widget-border,
+.lime-color-switcher .lime-color-switcher .widget-tagcloud .tagcloud-list li a,
+.lime-color-switcher .widget-tagcloud .tagcloud-list li a,
+.lime-color-switcher .pricing-top-two,
+.lime-color-switcher .pricing-price-two,
+.lime-color-switcher .pricing .price-btn-two>a,
+.lime-color-switcher .notfound-page .notfound-wrap .notfound-content a,
+.lime-color-switcher .contact .contact-form .btn.btn-default,
+.lime-color-switcher .cont-number.contact-two i.fa,
+.lime-color-switcher .cont-email.contact-two i.fa,
+.lime-color-switcher .cont-address.contact-two i.fa,
+.lime-color-switcher .contact-info .cont-social ul li a:hover,
+.lime-color-switcher .login-page .login-form button,
+.lime-color-switcher .login-form-content.login-pg-one .login-form.login-pg-one h2,
+.lime-color-switcher .registration-page .registration-form button,
+.lime-color-switcher .registration-form-content.registration-pg-one .registration-form.registration-pg-one h2,
+.lime-color-switcher .testimonial .carousel-indicators li.active,
+.lime-color-switcher .footer .footer-suprt-items,
+.lime-color-switcher .footer .live-chat span.chat-left,
+.lime-color-switcher .footer .live-chat span.chat-right,
+.lime-color-switcher .footer .totop>a,
+.lime-color-switcher #chat-accordion.panel-heading,
+.lime-color-switcher #chat-accordion.panel-heading .btn.btn-primary.btn-block.btn-xs,
+.lime-color-switcher .live-chat-wrapper #btn-chat,
+.lime-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button:hover,
+.lime-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button.btn.btn-default.right:hover,
+.lime-color-switcher .domain-serch.home-two .domain-search-form.home-two .domain-search-btn,
+.lime-color-switcher .domain-serch.home-two .domain-search-form.home-two .domain-search-btn:hover,
+.lime-color-switcher .service-iteam.home-two:hover i.home-two,
+.lime-color-switcher .testimonial.home-two .carousel-indicators.home-two li.active,
+.lime-color-switcher .post-content>a:hover,
+.lime-color-switcher .post-pagination .pagination li.active a,
+.lime-color-switcher .post-pagination .pagination li a:hover,
+.lime-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-left:hover,
+.lime-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-right:hover,
+.lime-color-switcher .footer .footer-widget .widget-newsletter a.btn,
+.lime-color-switcher .login-form-one-content .login-form-one h2,
+.lime-color-switcher .login-form-one-content .login-form-one button,
+.lime-color-switcher .author-comment-text span a.reply-btn:hover {
+    background: #ff9600!important;
+}
+
+
+/*======Background RGBA Color=====*/
+
+.lime-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-overlay,
+.lime-color-switcher .member-overlay {
+    background-color: rgba(255, 150, 0, 0.5) !important;
+}
+
+
+/*==========Element Color=========*/
+
+.lime-color-switcher .nav.navbar-nav li.active>a,
+.lime-color-switcher .nav.navbar-nav li>a:hover,
+.lime-color-switcher .topbar-social-icons ul li>a:hover,
+.lime-color-switcher .service .service-iteam>a,
+.lime-color-switcher .service .service-icon i,
+.lime-color-switcher .call-to-action .btn,
+.lime-color-switcher .company-info-counter .company-info-item i,
+.lime-color-switcher .company-info-counter .company-info-item h1,
+.lime-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-post-content span a,
+.lime-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-overlay-content>a:hover,
+.lime-color-switcher .testimonial .testi-content .client-info h2,
+.lime-color-switcher .partner h1 span,
+.lime-color-switcher .footer .widget-contact .widget-address h3 span,
+.lime-color-switcher .footer .widget-list li:hover,
+.lime-color-switcher .footer .widget-list li a:hover,
+.lime-color-switcher .footer .widget-newsletter .widget-social a:hover,
+.lime-color-switcher .footer .footer-menu li a:hover,
+.lime-color-switcher .slide-content.home-two h2 span,
+.lime-color-switcher .company-expertise-list p i,
+.lime-color-switcher .post-meta .post-title>a:hover,
+.lime-color-switcher .post-content>a,
+.lime-color-switcher .blog-post-social-share ul li a,
+.lime-color-switcher .related-blog-post #rel-blog-post-carousel p span .fa,
+.lime-color-switcher .author-comment-text span a,
+.lime-color-switcher .widget-search .widget-search-icon .fa,
+.lime-color-switcher .widget-category ul li a:hover,
+.lime-color-switcher .cont-address.contact-two a,
+.lime-color-switcher .contact-info .cont-email a,
+.lime-color-switcher .registration-form p>a,
+.lime-color-switcher .registration-form .checkbox span a,
+.lime-color-switcher .post-meta span a i,
+.lime-color-switcher .pagination>li>a,
+.lime-color-switcher .pagination>li>span,
+.lime-color-switcher .cont-two-content i.fa {
+    color: #ff9600!important;
+}
+
+
+/*======Font Color Different======*/
+
+.lime-color-switcher .service-iteam:hover .service-icon i,
+.lime-color-switcher .service .service-iteam>a:hover,
+.lime-color-switcher .post-pagination .pagination li.active a,
+.lime-color-switcher .post-pagination .pagination li a:hover,
+.lime-color-switcher .post-content>a:hover,
+.lime-color-switcher .author-comment-text span a.reply-btn:hover {
+    color: #fff!important;
+}
+
+
+/*==========Border Color==========*/
+
+.lime-color-switcher .main-slider .slide-btn button,
+.lime-color-switcher .main-slider .carousel-indicators li.active,
+.lime-color-switcher .domain-serch .domain-search-form input.domain-search-btn,
+.lime-color-switcher .service .service-icon i,
+.lime-color-switcher .service .service-iteam>a,
+.lime-color-switcher #pricing-carousel .carousel-indicators>li.active,
+.lime-color-switcher .pricing .pricing-tringle,
+.lime-color-switcher .footer .widget-newsletter .widget-social a:hover,
+.lime-color-switcher .testimonial .carousel-indicators li.active,
+.lime-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button,
+.lime-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button.btn.btn-default.right:hover,
+.lime-color-switcher .company-info-counter.home-two .company-info-item.home-two i,
+.lime-color-switcher .testimonial.home-two .carousel-indicators.home-two li.active,
+.lime-color-switcher .post-content>a,
+.lime-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-left:hover,
+.lime-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-right:hover,
+.lime-color-switcher .author-comment-text span a,
+.lime-color-switcher .registration-form-content.registration-pg-one .registration-form.registration-pg-one,
+.lime-color-switcher .login-form-content.login-pg-one .login-form.login-pg-one,
+.lime-color-switcher .post-pagination .pagination li.active a,
+.lime-color-switcher .login-form-one-content .login-form-one {
+    border-color: #ff9600!important;
+}
+
+
+/*===Border Color With Transparent===*/
+
+.lime-color-switcher .pricing .pricing-tringle {
+    border-color: #ff9600 transparent transparent!important;
+}
+
+
+/*=========Box Shadow Color==========*/
+
+.lime-color-switcher .service-iteam.home-two .serv-icon i.home-two::after {
+    box-shadow: 0 0 0 4px #ff9600!important;
+}
+
+
+/*------------------------------------------------------------------------------
+    Pink-Color 
+------------------------------------------------------------------------------*/
+
+
+/*=======Background Color=======*/
+
+.pink-color-switcher .color-panel-spinner,
+.pink-color-switcher .site-color-panel .site-color-panel-box>h3,
+.pink-color-switcher .main-slider .slide-btn button:hover,
+.pink-color-switcher .double-bounce1,
+.pink-color-switcher #shopping-cart>span,
+.pink-color-switcher .double-bounce2,
+.pink-color-switcher .main-slider .slide-btn button.btn.btn-default.right,
+.pink-color-switcher .domain-serch .domain-search-form input.domain-search-btn,
+.pink-color-switcher .section-title .title-bottom-line,
+.pink-color-switcher .service-iteam:hover .service-icon i,
+.pink-color-switcher .service .service-iteam>a:hover,
+.pink-color-switcher .service-iteam.home-two .serv-icon i,
+.pink-color-switcher #pricing-carousel .carousel-indicators>li.active,
+.pink-color-switcher .pricing .pricing-plan .pricing-top,
+.pink-color-switcher .pricing .price-btn>a,
+.pink-color-switcher .call-to-action,
+.pink-color-switcher .member-overlay ul,
+.pink-color-switcher .member-info,
+.pink-color-switcher .progress-bar,
+.pink-color-switcher .latest-blog.home-default .blog-post-load-btn>a,
+.pink-color-switcher .comment-border,
+.pink-color-switcher .comment-form .comment-btn button,
+.pink-color-switcher .comment-form .comment-btn button:hover,
+.pink-color-switcher #widget-carousel .glyphicon.glyphicon-chevron-left:hover,
+.pink-color-switcher #widget-carousel .glyphicon.glyphicon-chevron-right:hover,
+.pink-color-switcher .widget-border,
+.pink-color-switcher .pink-color-switcher .widget-tagcloud .tagcloud-list li a,
+.pink-color-switcher .widget-tagcloud .tagcloud-list li a,
+.pink-color-switcher .pricing-top-two,
+.pink-color-switcher .pricing-price-two,
+.pink-color-switcher .pricing .price-btn-two>a,
+.pink-color-switcher .notfound-page .notfound-wrap .notfound-content a,
+.pink-color-switcher .contact .contact-form .btn.btn-default,
+.pink-color-switcher .cont-number.contact-two i.fa,
+.pink-color-switcher .cont-email.contact-two i.fa,
+.pink-color-switcher .cont-address.contact-two i.fa,
+.pink-color-switcher .contact-info .cont-social ul li a:hover,
+.pink-color-switcher .login-page .login-form button,
+.pink-color-switcher .login-form-content.login-pg-one .login-form.login-pg-one h2,
+.pink-color-switcher .registration-page .registration-form button,
+.pink-color-switcher .registration-form-content.registration-pg-one .registration-form.registration-pg-one h2,
+.pink-color-switcher .testimonial .carousel-indicators li.active,
+.pink-color-switcher .footer .footer-suprt-items,
+.pink-color-switcher .footer .live-chat span.chat-left,
+.pink-color-switcher .footer .live-chat span.chat-right,
+.pink-color-switcher .footer .totop>a,
+.pink-color-switcher #chat-accordion.panel-heading,
+.pink-color-switcher #chat-accordion.panel-heading .btn.btn-primary.btn-block.btn-xs,
+.pink-color-switcher .live-chat-wrapper #btn-chat,
+.pink-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button:hover,
+.pink-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button.btn.btn-default.right:hover,
+.pink-color-switcher .domain-serch.home-two .domain-search-form.home-two .domain-search-btn,
+.pink-color-switcher .domain-serch.home-two .domain-search-form.home-two .domain-search-btn:hover,
+.pink-color-switcher .service-iteam.home-two:hover i.home-two,
+.pink-color-switcher .testimonial.home-two .carousel-indicators.home-two li.active,
+.pink-color-switcher .post-content>a:hover,
+.pink-color-switcher .post-pagination .pagination li.active a,
+.pink-color-switcher .post-pagination .pagination li a:hover,
+.pink-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-left:hover,
+.pink-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-right:hover,
+.pink-color-switcher .footer .footer-widget .widget-newsletter a.btn,
+.pink-color-switcher .login-form-one-content .login-form-one h2,
+.pink-color-switcher .login-form-one-content .login-form-one button,
+.pink-color-switcher .author-comment-text span a.reply-btn:hover {
+    background: #FC5143!important;
+}
+
+
+/*======Background RGBA Color=====*/
+
+.pink-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-overlay,
+.pink-color-switcher .member-overlay {
+    background-color: rgba(252, 81, 67, 0.5) !important;
+}
+
+
+/*==========Element Color=========*/
+
+.pink-color-switcher .nav.navbar-nav li.active>a,
+.pink-color-switcher .nav.navbar-nav li>a:hover,
+.pink-color-switcher .topbar-social-icons ul li>a:hover,
+.pink-color-switcher .service .service-iteam>a,
+.pink-color-switcher .service .service-icon i,
+.pink-color-switcher .call-to-action .btn,
+.pink-color-switcher .company-info-counter .company-info-item i,
+.pink-color-switcher .company-info-counter .company-info-item h1,
+.pink-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-post-content span a,
+.pink-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-overlay-content>a:hover,
+.pink-color-switcher .testimonial .testi-content .client-info h2,
+.pink-color-switcher .partner h1 span,
+.pink-color-switcher .footer .widget-contact .widget-address h3 span,
+.pink-color-switcher .footer .widget-list li:hover,
+.pink-color-switcher .footer .widget-list li a:hover,
+.pink-color-switcher .footer .widget-newsletter .widget-social a:hover,
+.pink-color-switcher .footer .footer-menu li a:hover,
+.pink-color-switcher .slide-content.home-two h2 span,
+.pink-color-switcher .company-expertise-list p i,
+.pink-color-switcher .post-meta .post-title>a:hover,
+.pink-color-switcher .post-content>a,
+.pink-color-switcher .blog-post-social-share ul li a,
+.pink-color-switcher .related-blog-post #rel-blog-post-carousel p span .fa,
+.pink-color-switcher .author-comment-text span a,
+.pink-color-switcher .widget-search .widget-search-icon .fa,
+.pink-color-switcher .widget-category ul li a:hover,
+.pink-color-switcher .cont-address.contact-two a,
+.pink-color-switcher .contact-info .cont-email a,
+.pink-color-switcher .registration-form p>a,
+.pink-color-switcher .registration-form .checkbox span a,
+.pink-color-switcher .post-meta span a i,
+.pink-color-switcher .pagination>li>a,
+.pink-color-switcher .pagination>li>span,
+.pink-color-switcher .cont-two-content i.fa {
+    color: #FC5143!important;
+}
+
+
+/*======Font Color Different======*/
+
+.pink-color-switcher .service-iteam:hover .service-icon i,
+.pink-color-switcher .service .service-iteam>a:hover,
+.pink-color-switcher .post-pagination .pagination li.active a,
+.pink-color-switcher .post-pagination .pagination li a:hover,
+.pink-color-switcher .post-content>a:hover,
+.pink-color-switcher .author-comment-text span a.reply-btn:hover {
+    color: #fff!important;
+}
+
+
+/*==========Border Color==========*/
+
+.pink-color-switcher .main-slider .slide-btn button,
+.pink-color-switcher .main-slider .carousel-indicators li.active,
+.pink-color-switcher .domain-serch .domain-search-form input.domain-search-btn,
+.pink-color-switcher .service .service-icon i,
+.pink-color-switcher .service .service-iteam>a,
+.pink-color-switcher #pricing-carousel .carousel-indicators>li.active,
+.pink-color-switcher .pricing .pricing-tringle,
+.pink-color-switcher .footer .widget-newsletter .widget-social a:hover,
+.pink-color-switcher .testimonial .carousel-indicators li.active,
+.pink-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button,
+.pink-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button.btn.btn-default.right:hover,
+.pink-color-switcher .company-info-counter.home-two .company-info-item.home-two i,
+.pink-color-switcher .testimonial.home-two .carousel-indicators.home-two li.active,
+.pink-color-switcher .post-content>a,
+.pink-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-left:hover,
+.pink-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-right:hover,
+.pink-color-switcher .author-comment-text span a,
+.pink-color-switcher .registration-form-content.registration-pg-one .registration-form.registration-pg-one,
+.pink-color-switcher .login-form-content.login-pg-one .login-form.login-pg-one,
+.pink-color-switcher .post-pagination .pagination li.active a,
+.pink-color-switcher .login-form-one-content .login-form-one {
+    border-color: #FC5143!important;
+}
+
+
+/*===Border Color With Transparent===*/
+
+.pink-color-switcher .pricing .pricing-tringle {
+    border-color: #FC5143 transparent transparent!important;
+}
+
+
+/*=========Box Shadow Color==========*/
+
+.pink-color-switcher .service-iteam.home-two .serv-icon i.home-two::after {
+    box-shadow: 0 0 0 4px #FC5143!important;
+}
+
+
+/*------------------------------------------------------------------------------
+    SaddleBrown-Color
+------------------------------------------------------------------------------*/
+
+
+/*=======Background Color=======*/
+
+.SaddleBrown-color-switcher .color-panel-spinner,
+.SaddleBrown-color-switcher .site-color-panel .site-color-panel-box>h3,
+.SaddleBrown-color-switcher .main-slider .slide-btn button:hover,
+.SaddleBrown-color-switcher .double-bounce1,
+.SaddleBrown-color-switcher #shopping-cart>span,
+.SaddleBrown-color-switcher .double-bounce2,
+.SaddleBrown-color-switcher .main-slider .slide-btn button.btn.btn-default.right,
+.SaddleBrown-color-switcher .domain-serch .domain-search-form input.domain-search-btn,
+.SaddleBrown-color-switcher .section-title .title-bottom-line,
+.SaddleBrown-color-switcher .service-iteam:hover .service-icon i,
+.SaddleBrown-color-switcher .service .service-iteam>a:hover,
+.SaddleBrown-color-switcher .service-iteam.home-two .serv-icon i,
+.SaddleBrown-color-switcher #pricing-carousel .carousel-indicators>li.active,
+.SaddleBrown-color-switcher .pricing .pricing-plan .pricing-top,
+.SaddleBrown-color-switcher .pricing .price-btn>a,
+.SaddleBrown-color-switcher .call-to-action,
+.SaddleBrown-color-switcher .member-overlay ul,
+.SaddleBrown-color-switcher .member-info,
+.SaddleBrown-color-switcher .progress-bar,
+.SaddleBrown-color-switcher .latest-blog.home-default .blog-post-load-btn>a,
+.SaddleBrown-color-switcher .comment-border,
+.SaddleBrown-color-switcher .comment-form .comment-btn button,
+.SaddleBrown-color-switcher .comment-form .comment-btn button:hover,
+.SaddleBrown-color-switcher #widget-carousel .glyphicon.glyphicon-chevron-left:hover,
+.SaddleBrown-color-switcher #widget-carousel .glyphicon.glyphicon-chevron-right:hover,
+.SaddleBrown-color-switcher .widget-border,
+.SaddleBrown-color-switcher .SaddleBrown-color-switcher .widget-tagcloud .tagcloud-list li a,
+.SaddleBrown-color-switcher .widget-tagcloud .tagcloud-list li a,
+.SaddleBrown-color-switcher .pricing-top-two,
+.SaddleBrown-color-switcher .pricing-price-two,
+.SaddleBrown-color-switcher .pricing .price-btn-two>a,
+.SaddleBrown-color-switcher .notfound-page .notfound-wrap .notfound-content a,
+.SaddleBrown-color-switcher .contact .contact-form .btn.btn-default,
+.SaddleBrown-color-switcher .cont-number.contact-two i.fa,
+.SaddleBrown-color-switcher .cont-email.contact-two i.fa,
+.SaddleBrown-color-switcher .cont-address.contact-two i.fa,
+.SaddleBrown-color-switcher .contact-info .cont-social ul li a:hover,
+.SaddleBrown-color-switcher .login-page .login-form button,
+.SaddleBrown-color-switcher .login-form-content.login-pg-one .login-form.login-pg-one h2,
+.SaddleBrown-color-switcher .registration-page .registration-form button,
+.SaddleBrown-color-switcher .registration-form-content.registration-pg-one .registration-form.registration-pg-one h2,
+.SaddleBrown-color-switcher .testimonial .carousel-indicators li.active,
+.SaddleBrown-color-switcher .footer .footer-suprt-items,
+.SaddleBrown-color-switcher .footer .live-chat span.chat-left,
+.SaddleBrown-color-switcher .footer .live-chat span.chat-right,
+.SaddleBrown-color-switcher .footer .totop>a,
+.SaddleBrown-color-switcher #chat-accordion.panel-heading,
+.SaddleBrown-color-switcher #chat-accordion.panel-heading .btn.btn-primary.btn-block.btn-xs,
+.SaddleBrown-color-switcher .live-chat-wrapper #btn-chat,
+.SaddleBrown-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button:hover,
+.SaddleBrown-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button.btn.btn-default.right:hover,
+.SaddleBrown-color-switcher .domain-serch.home-two .domain-search-form.home-two .domain-search-btn,
+.SaddleBrown-color-switcher .domain-serch.home-two .domain-search-form.home-two .domain-search-btn:hover,
+.SaddleBrown-color-switcher .service-iteam.home-two:hover i.home-two,
+.SaddleBrown-color-switcher .testimonial.home-two .carousel-indicators.home-two li.active,
+.SaddleBrown-color-switcher .post-content>a:hover,
+.SaddleBrown-color-switcher .post-pagination .pagination li.active a,
+.SaddleBrown-color-switcher .post-pagination .pagination li a:hover,
+.SaddleBrown-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-left:hover,
+.SaddleBrown-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-right:hover,
+.SaddleBrown-color-switcher .footer .footer-widget .widget-newsletter a.btn,
+.SaddleBrown-color-switcher .login-form-one-content .login-form-one h2,
+.SaddleBrown-color-switcher .login-form-one-content .login-form-one button,
+.SaddleBrown-color-switcher .author-comment-text span a.reply-btn:hover {
+    background: #1abc9c!important;
+}
+
+
+/*======Background RGBA Color=====*/
+
+.SaddleBrown-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-overlay,
+.SaddleBrown-color-switcher .member-overlay {
+    background-color: rgba(26, 188, 156, 0.5) !important;
+}
+
+
+/*==========Element Color=========*/
+
+.SaddleBrown-color-switcher .nav.navbar-nav li.active>a,
+.SaddleBrown-color-switcher .nav.navbar-nav li>a:hover,
+.SaddleBrown-color-switcher .topbar-social-icons ul li>a:hover,
+.SaddleBrown-color-switcher .service .service-iteam>a,
+.SaddleBrown-color-switcher .service .service-icon i,
+.SaddleBrown-color-switcher .call-to-action .btn,
+.SaddleBrown-color-switcher .company-info-counter .company-info-item i,
+.SaddleBrown-color-switcher .company-info-counter .company-info-item h1,
+.SaddleBrown-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-post-content span a,
+.SaddleBrown-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-overlay-content>a:hover,
+.SaddleBrown-color-switcher .testimonial .testi-content .client-info h2,
+.SaddleBrown-color-switcher .partner h1 span,
+.SaddleBrown-color-switcher .footer .widget-contact .widget-address h3 span,
+.SaddleBrown-color-switcher .footer .widget-list li:hover,
+.SaddleBrown-color-switcher .footer .widget-list li a:hover,
+.SaddleBrown-color-switcher .footer .widget-newsletter .widget-social a:hover,
+.SaddleBrown-color-switcher .footer .footer-menu li a:hover,
+.SaddleBrown-color-switcher .slide-content.home-two h2 span,
+.SaddleBrown-color-switcher .company-expertise-list p i,
+.SaddleBrown-color-switcher .post-meta .post-title>a:hover,
+.SaddleBrown-color-switcher .post-content>a,
+.SaddleBrown-color-switcher .blog-post-social-share ul li a,
+.SaddleBrown-color-switcher .related-blog-post #rel-blog-post-carousel p span .fa,
+.SaddleBrown-color-switcher .author-comment-text span a,
+.SaddleBrown-color-switcher .widget-search .widget-search-icon .fa,
+.SaddleBrown-color-switcher .widget-category ul li a:hover,
+.SaddleBrown-color-switcher .cont-address.contact-two a,
+.SaddleBrown-color-switcher .contact-info .cont-email a,
+.SaddleBrown-color-switcher .registration-form p>a,
+.SaddleBrown-color-switcher .registration-form .checkbox span a,
+.SaddleBrown-color-switcher .post-meta span a i,
+.SaddleBrown-color-switcher .pagination>li>a,
+.SaddleBrown-color-switcher .pagination>li>span,
+.SaddleBrown-color-switcher .cont-two-content i.fa {
+    color: #1abc9c!important;
+}
+
+
+/*======Font Color Different======*/
+
+.SaddleBrown-color-switcher .service-iteam:hover .service-icon i,
+.SaddleBrown-color-switcher .service .service-iteam>a:hover,
+.SaddleBrown-color-switcher .post-pagination .pagination li.active a,
+.SaddleBrown-color-switcher .post-pagination .pagination li a:hover,
+.SaddleBrown-color-switcher .post-content>a:hover,
+.SaddleBrown-color-switcher .author-comment-text span a.reply-btn:hover {
+    color: #fff!important;
+}
+
+
+/*==========Border Color==========*/
+
+.SaddleBrown-color-switcher .main-slider .slide-btn button,
+.SaddleBrown-color-switcher .main-slider .carousel-indicators li.active,
+.SaddleBrown-color-switcher .domain-serch .domain-search-form input.domain-search-btn,
+.SaddleBrown-color-switcher .service .service-icon i,
+.SaddleBrown-color-switcher .service .service-iteam>a,
+.SaddleBrown-color-switcher #pricing-carousel .carousel-indicators>li.active,
+.SaddleBrown-color-switcher .pricing .pricing-tringle,
+.SaddleBrown-color-switcher .footer .widget-newsletter .widget-social a:hover,
+.SaddleBrown-color-switcher .testimonial .carousel-indicators li.active,
+.SaddleBrown-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button,
+.SaddleBrown-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button.btn.btn-default.right:hover,
+.SaddleBrown-color-switcher .company-info-counter.home-two .company-info-item.home-two i,
+.SaddleBrown-color-switcher .testimonial.home-two .carousel-indicators.home-two li.active,
+.SaddleBrown-color-switcher .post-content>a,
+.SaddleBrown-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-left:hover,
+.SaddleBrown-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-right:hover,
+.SaddleBrown-color-switcher .author-comment-text span a,
+.SaddleBrown-color-switcher .registration-form-content.registration-pg-one .registration-form.registration-pg-one,
+.SaddleBrown-color-switcher .login-form-content.login-pg-one .login-form.login-pg-one,
+.SaddleBrown-color-switcher .post-pagination .pagination li.active a,
+.SaddleBrown-color-switcher .login-form-one-content .login-form-one {
+    border-color: #1abc9c!important;
+}
+
+
+/*===Border Color With Transparent===*/
+
+.SaddleBrown-color-switcher .pricing .pricing-tringle {
+    border-color: #1abc9c transparent transparent!important;
+}
+
+
+/*=========Box Shadow Color==========*/
+
+.SaddleBrown-color-switcher .service-iteam.home-two .serv-icon i.home-two::after {
+    box-shadow: 0 0 0 4px #1abc9c!important;
+}
+
+
+/*------------------------------------------------------------------------------
+    New-Color-One
+------------------------------------------------------------------------------*/
+
+
+/*=======Background Color=======*/
+
+.new-one-color-switcher .color-panel-spinner,
+.new-one-color-switcher .site-color-panel .site-color-panel-box>h3,
+.new-one-color-switcher .main-slider .slide-btn button:hover,
+.new-one-color-switcher .double-bounce1,
+.new-one-color-switcher #shopping-cart>span,
+.new-one-color-switcher .double-bounce2,
+.new-one-color-switcher .main-slider .slide-btn button.btn.btn-default.right,
+.new-one-color-switcher .domain-serch .domain-search-form input.domain-search-btn,
+.new-one-color-switcher .section-title .title-bottom-line,
+.new-one-color-switcher .service-iteam:hover .service-icon i,
+.new-one-color-switcher .service .service-iteam>a:hover,
+.new-one-color-switcher .service-iteam.home-two .serv-icon i,
+.new-one-color-switcher #pricing-carousel .carousel-indicators>li.active,
+.new-one-color-switcher .pricing .pricing-plan .pricing-top,
+.new-one-color-switcher .pricing .price-btn>a,
+.new-one-color-switcher .call-to-action,
+.new-one-color-switcher .member-overlay ul,
+.new-one-color-switcher .member-info,
+.new-one-color-switcher .progress-bar,
+.new-one-color-switcher .latest-blog.home-default .blog-post-load-btn>a,
+.new-one-color-switcher .comment-border,
+.new-one-color-switcher .comment-form .comment-btn button,
+.new-one-color-switcher .comment-form .comment-btn button:hover,
+.new-one-color-switcher #widget-carousel .glyphicon.glyphicon-chevron-left:hover,
+.new-one-color-switcher #widget-carousel .glyphicon.glyphicon-chevron-right:hover,
+.new-one-color-switcher .widget-border,
+.new-one-color-switcher .SaddleBrown-color-switcher .widget-tagcloud .tagcloud-list li a,
+.new-one-color-switcher .widget-tagcloud .tagcloud-list li a,
+.new-one-color-switcher .pricing-top-two,
+.new-one-color-switcher .pricing-price-two,
+.new-one-color-switcher .pricing .price-btn-two>a,
+.new-one-color-switcher .notfound-page .notfound-wrap .notfound-content a,
+.new-one-color-switcher .contact .contact-form .btn.btn-default,
+.new-one-color-switcher .cont-number.contact-two i.fa,
+.new-one-color-switcher .cont-email.contact-two i.fa,
+.new-one-color-switcher .cont-address.contact-two i.fa,
+.new-one-color-switcher .contact-info .cont-social ul li a:hover,
+.new-one-color-switcher .login-page .login-form button,
+.new-one-color-switcher .login-form-content.login-pg-one .login-form.login-pg-one h2,
+.new-one-color-switcher .registration-page .registration-form button,
+.new-one-color-switcher .registration-form-content.registration-pg-one .registration-form.registration-pg-one h2,
+.new-one-color-switcher .testimonial .carousel-indicators li.active,
+.new-one-color-switcher .footer .footer-suprt-items,
+.new-one-color-switcher .footer .live-chat span.chat-left,
+.new-one-color-switcher .footer .live-chat span.chat-right,
+.new-one-color-switcher .footer .totop>a,
+.new-one-color-switcher #chat-accordion.panel-heading,
+.new-one-color-switcher #chat-accordion.panel-heading .btn.btn-primary.btn-block.btn-xs,
+.new-one-color-switcher .live-chat-wrapper #btn-chat,
+.new-one-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button:hover,
+.new-one-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button.btn.btn-default.right:hover,
+.new-one-color-switcher .domain-serch.home-two .domain-search-form.home-two .domain-search-btn,
+.new-one-color-switcher .domain-serch.home-two .domain-search-form.home-two .domain-search-btn:hover,
+.new-one-color-switcher .service-iteam.home-two:hover i.home-two,
+.new-one-color-switcher .testimonial.home-two .carousel-indicators.home-two li.active,
+.new-one-color-switcher .post-content>a:hover,
+.new-one-color-switcher .post-pagination .pagination li.active a,
+.new-one-color-switcher .post-pagination .pagination li a:hover,
+.new-one-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-left:hover,
+.new-one-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-right:hover,
+.new-one-color-switcher .footer .footer-widget .widget-newsletter a.btn,
+.new-one-color-switcher .login-form-one-content .login-form-one h2,
+.new-one-color-switcher .login-form-one-content .login-form-one button,
+.new-one-color-switcher .author-comment-text span a.reply-btn:hover {
+    background: #FF4081!important;
+}
+
+
+/*======Background RGBA Color=====*/
+
+.new-one-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-overlay,
+.new-one-color-switcher .member-overlay {
+    background-color: rgba(255, 64, 129, 0.5) !important;
+}
+
+
+/*==========Element Color=========*/
+
+.new-one-color-switcher .nav.navbar-nav li.active>a,
+.new-one-color-switcher .nav.navbar-nav li>a:hover,
+.new-one-color-switcher .topbar-social-icons ul li>a:hover,
+.new-one-color-switcher .service .service-iteam>a,
+.new-one-color-switcher .service .service-icon i,
+.new-one-color-switcher .call-to-action .btn,
+.new-one-color-switcher .company-info-counter .company-info-item i,
+.new-one-color-switcher .company-info-counter .company-info-item h1,
+.new-one-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-post-content span a,
+.new-one-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-overlay-content>a:hover,
+.new-one-color-switcher .testimonial .testi-content .client-info h2,
+.new-one-color-switcher .partner h1 span,
+.new-one-color-switcher .footer .widget-contact .widget-address h3 span,
+.new-one-color-switcher .footer .widget-list li:hover,
+.new-one-color-switcher .footer .widget-list li a:hover,
+.new-one-color-switcher .footer .widget-newsletter .widget-social a:hover,
+.new-one-color-switcher .footer .footer-menu li a:hover,
+.new-one-color-switcher .slide-content.home-two h2 span,
+.new-one-color-switcher .company-expertise-list p i,
+.new-one-color-switcher .post-meta .post-title>a:hover,
+.new-one-color-switcher .post-content>a,
+.new-one-color-switcher .blog-post-social-share ul li a,
+.new-one-color-switcher .related-blog-post #rel-blog-post-carousel p span .fa,
+.new-one-color-switcher .author-comment-text span a,
+.new-one-color-switcher .widget-search .widget-search-icon .fa,
+.new-one-color-switcher .widget-category ul li a:hover,
+.new-one-color-switcher .cont-address.contact-two a,
+.new-one-color-switcher .contact-info .cont-email a,
+.new-one-color-switcher .registration-form p>a,
+.new-one-color-switcher .registration-form .checkbox span a,
+.new-one-color-switcher .post-meta span a i,
+.new-one-color-switcher .pagination>li>a,
+.new-one-color-switcher .pagination>li>span,
+.new-one-color-switcher .cont-two-content i.fa {
+    color: #FF4081!important;
+}
+
+
+/*======Font Color Different======*/
+
+.new-one-color-switcher .service-iteam:hover .service-icon i,
+.new-one-color-switcher .service .service-iteam>a:hover,
+.new-one-color-switcher .post-pagination .pagination li.active a,
+.new-one-color-switcher .post-pagination .pagination li a:hover,
+.new-one-color-switcher .post-content>a:hover,
+.new-one-color-switcher .author-comment-text span a.reply-btn:hover {
+    color: #fff!important;
+}
+
+
+/*==========Border Color==========*/
+
+.new-one-color-switcher .main-slider .slide-btn button,
+.new-one-color-switcher .main-slider .carousel-indicators li.active,
+.new-one-color-switcher .domain-serch .domain-search-form input.domain-search-btn,
+.new-one-color-switcher .service .service-icon i,
+.new-one-color-switcher .service .service-iteam>a,
+.new-one-color-switcher #pricing-carousel .carousel-indicators>li.active,
+.new-one-color-switcher .pricing .pricing-tringle,
+.new-one-color-switcher .footer .widget-newsletter .widget-social a:hover,
+.new-one-color-switcher .testimonial .carousel-indicators li.active,
+.new-one-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button,
+.new-one-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button.btn.btn-default.right:hover,
+.new-one-color-switcher .company-info-counter.home-two .company-info-item.home-two i,
+.new-one-color-switcher .testimonial.home-two .carousel-indicators.home-two li.active,
+.new-one-color-switcher .post-content>a,
+.new-one-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-left:hover,
+.new-one-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-right:hover,
+.new-one-color-switcher .author-comment-text span a,
+.new-one-color-switcher .registration-form-content.registration-pg-one .registration-form.registration-pg-one,
+.new-one-color-switcher .login-form-content.login-pg-one .login-form.login-pg-one,
+.new-one-color-switcher .post-pagination .pagination li.active a,
+.new-one-color-switcher .login-form-one-content .login-form-one {
+    border-color: #FF4081!important;
+}
+
+
+/*===Border Color With Transparent===*/
+
+.new-one-color-switcher .pricing .pricing-tringle {
+    border-color: #FF4081 transparent transparent!important;
+}
+
+
+/*=========Box Shadow Color==========*/
+
+.new-one-color-switcher .service-iteam.home-two .serv-icon i.home-two::after {
+    box-shadow: 0 0 0 4px #FF4081!important;
+}
+
+
+/*------------------------------------------------------------------------------
+    New-Color-Two
+------------------------------------------------------------------------------*/
+
+
+/*=======Background Color=======*/
+
+.new-two-color-switcher .color-panel-spinner,
+.new-two-color-switcher .site-color-panel .site-color-panel-box>h3,
+.new-two-color-switcher .main-slider .slide-btn button:hover,
+.new-two-color-switcher .double-bounce1,
+.new-two-color-switcher #shopping-cart>span,
+.new-two-color-switcher .double-bounce2,
+.new-two-color-switcher .main-slider .slide-btn button.btn.btn-default.right,
+.new-two-color-switcher .domain-serch .domain-search-form input.domain-search-btn,
+.new-two-color-switcher .section-title .title-bottom-line,
+.new-two-color-switcher .service-iteam:hover .service-icon i,
+.new-two-color-switcher .service .service-iteam>a:hover,
+.new-two-color-switcher .service-iteam.home-two .serv-icon i,
+.new-two-color-switcher #pricing-carousel .carousel-indicators>li.active,
+.new-two-color-switcher .pricing .pricing-plan .pricing-top,
+.new-two-color-switcher .pricing .price-btn>a,
+.new-two-color-switcher .call-to-action,
+.new-two-color-switcher .member-overlay ul,
+.new-two-color-switcher .member-info,
+.new-two-color-switcher .progress-bar,
+.new-two-color-switcher .latest-blog.home-default .blog-post-load-btn>a,
+.new-two-color-switcher .comment-border,
+.new-two-color-switcher .comment-form .comment-btn button,
+.new-two-color-switcher .comment-form .comment-btn button:hover,
+.new-two-color-switcher #widget-carousel .glyphicon.glyphicon-chevron-left:hover,
+.new-two-color-switcher #widget-carousel .glyphicon.glyphicon-chevron-right:hover,
+.new-two-color-switcher .widget-border,
+.new-two-color-switcher .SaddleBrown-color-switcher .widget-tagcloud .tagcloud-list li a,
+.new-two-color-switcher .widget-tagcloud .tagcloud-list li a,
+.new-two-color-switcher .pricing-top-two,
+.new-two-color-switcher .pricing-price-two,
+.new-two-color-switcher .pricing .price-btn-two>a,
+.new-two-color-switcher .notfound-page .notfound-wrap .notfound-content a,
+.new-two-color-switcher .contact .contact-form .btn.btn-default,
+.new-two-color-switcher .cont-number.contact-two i.fa,
+.new-two-color-switcher .cont-email.contact-two i.fa,
+.new-two-color-switcher .cont-address.contact-two i.fa,
+.new-two-color-switcher .contact-info .cont-social ul li a:hover,
+.new-two-color-switcher .login-page .login-form button,
+.new-two-color-switcher .login-form-content.login-pg-one .login-form.login-pg-one h2,
+.new-two-color-switcher .registration-page .registration-form button,
+.new-two-color-switcher .registration-form-content.registration-pg-one .registration-form.registration-pg-one h2,
+.new-two-color-switcher .testimonial .carousel-indicators li.active,
+.new-two-color-switcher .footer .footer-suprt-items,
+.new-two-color-switcher .footer .live-chat span.chat-left,
+.new-two-color-switcher .footer .live-chat span.chat-right,
+.new-two-color-switcher .footer .totop>a,
+.new-two-color-switcher #chat-accordion.panel-heading,
+.new-two-color-switcher #chat-accordion.panel-heading .btn.btn-primary.btn-block.btn-xs,
+.new-two-color-switcher .live-chat-wrapper #btn-chat,
+.new-two-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button:hover,
+.new-two-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button.btn.btn-default.right:hover,
+.new-two-color-switcher .domain-serch.home-two .domain-search-form.home-two .domain-search-btn,
+.new-two-color-switcher .domain-serch.home-two .domain-search-form.home-two .domain-search-btn:hover,
+.new-two-color-switcher .service-iteam.home-two:hover i.home-two,
+.new-two-color-switcher .testimonial.home-two .carousel-indicators.home-two li.active,
+.new-two-color-switcher .post-content>a:hover,
+.new-two-color-switcher .post-pagination .pagination li.active a,
+.new-two-color-switcher .post-pagination .pagination li a:hover,
+.new-two-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-left:hover,
+.new-two-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-right:hover,
+.new-two-color-switcher .footer .footer-widget .widget-newsletter a.btn,
+.new-two-color-switcher .login-form-one-content .login-form-one h2,
+.new-two-color-switcher .login-form-one-content .login-form-one button,
+.new-two-color-switcher .author-comment-text span a.reply-btn:hover {
+    background: #16a085!important;
+}
+
+
+/*======Background RGBA Color=====*/
+
+.new-two-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-overlay,
+.new-two-color-switcher .member-overlay {
+    background-color: rgba(22, 160, 133, 0.5) !important;
+}
+
+
+/*==========Element Color=========*/
+
+.new-two-color-switcher .nav.navbar-nav li.active>a,
+.new-two-color-switcher .nav.navbar-nav li>a:hover,
+.new-two-color-switcher .topbar-social-icons ul li>a:hover,
+.new-two-color-switcher .service .service-iteam>a,
+.new-two-color-switcher .service .service-icon i,
+.new-two-color-switcher .call-to-action .btn,
+.new-two-color-switcher .company-info-counter .company-info-item i,
+.new-two-color-switcher .company-info-counter .company-info-item h1,
+.new-two-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-post-content span a,
+.new-two-color-switcher .latest-blog.home-default .blog-post-grid.home-default .blog-overlay-content>a:hover,
+.new-two-color-switcher .testimonial .testi-content .client-info h2,
+.new-two-color-switcher .partner h1 span,
+.new-two-color-switcher .footer .widget-contact .widget-address h3 span,
+.new-two-color-switcher .footer .widget-list li:hover,
+.new-two-color-switcher .footer .widget-list li a:hover,
+.new-two-color-switcher .footer .widget-newsletter .widget-social a:hover,
+.new-two-color-switcher .footer .footer-menu li a:hover,
+.new-two-color-switcher .slide-content.home-two h2 span,
+.new-two-color-switcher .company-expertise-list p i,
+.new-two-color-switcher .post-meta .post-title>a:hover,
+.new-two-color-switcher .post-content>a,
+.new-two-color-switcher .blog-post-social-share ul li a,
+.new-two-color-switcher .related-blog-post #rel-blog-post-carousel p span .fa,
+.new-two-color-switcher .author-comment-text span a,
+.new-two-color-switcher .widget-search .widget-search-icon .fa,
+.new-two-color-switcher .widget-category ul li a:hover,
+.new-two-color-switcher .cont-address.contact-two a,
+.new-two-color-switcher .contact-info .cont-email a,
+.new-two-color-switcher .registration-form p>a,
+.new-two-color-switcher .registration-form .checkbox span a,
+.new-two-color-switcher .post-meta span a i,
+.new-two-color-switcher .pagination>li>a,
+.new-two-color-switcher .pagination>li>span,
+.new-two-color-switcher .cont-two-content i.fa {
+    color: #16a085!important;
+}
+
+
+/*======Font Color Different======*/
+
+.new-two-color-switcher .service-iteam:hover .service-icon i,
+.new-two-color-switcher .service .service-iteam>a:hover,
+.new-two-color-switcher .post-pagination .pagination li.active a,
+.new-two-color-switcher .post-pagination .pagination li a:hover,
+.new-two-color-switcher .post-content>a:hover,
+.new-two-color-switcher .author-comment-text span a.reply-btn:hover {
+    color: #fff!important;
+}
+
+
+/*==========Border Color==========*/
+
+.new-two-color-switcher .main-slider .slide-btn button,
+.new-two-color-switcher .main-slider .carousel-indicators li.active,
+.new-two-color-switcher .domain-serch .domain-search-form input.domain-search-btn,
+.new-two-color-switcher .service .service-icon i,
+.new-two-color-switcher .service .service-iteam>a,
+.new-two-color-switcher #pricing-carousel .carousel-indicators>li.active,
+.new-two-color-switcher .pricing .pricing-tringle,
+.new-two-color-switcher .footer .widget-newsletter .widget-social a:hover,
+.new-two-color-switcher .testimonial .carousel-indicators li.active,
+.new-two-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button,
+.new-two-color-switcher .main-slider-two .carousel-inner.home-two .slide-btn button.btn.btn-default.right:hover,
+.new-two-color-switcher .company-info-counter.home-two .company-info-item.home-two i,
+.new-two-color-switcher .testimonial.home-two .carousel-indicators.home-two li.active,
+.new-two-color-switcher .post-content>a,
+.new-two-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-left:hover,
+.new-two-color-switcher .related-blog-post #rel-blog-post-carousel .fa.fa-angle-double-right:hover,
+.new-two-color-switcher .author-comment-text span a,
+.new-two-color-switcher .registration-form-content.registration-pg-one .registration-form.registration-pg-one,
+.new-two-color-switcher .login-form-content.login-pg-one .login-form.login-pg-one,
+.new-two-color-switcher .post-pagination .pagination li.active a,
+.new-two-color-switcher .login-form-one-content .login-form-one {
+    border-color: #16a085!important;
+}
+
+
+/*===Border Color With Transparent===*/
+
+.new-two-color-switcher .pricing .pricing-tringle {
+    border-color: #16a085 transparent transparent!important;
+}
+
+
+/*=========Box Shadow Color==========*/
+
+.new-two-color-switcher .service-iteam.home-two .serv-icon i.home-two::after {
+    box-shadow: 0 0 0 4px #16a085!important;
+}

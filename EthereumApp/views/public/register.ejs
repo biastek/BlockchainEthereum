@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, maximum-scale=1, initial-scale=1, user-scalable=0">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <title><%=title%> | Glorious Corp</title>
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/png" href="/public/images/favicon.png" />
+
+    <!--Google fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Raleway:200,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900|Roboto+Condensed:300,300i,400,400i,700,700i|Roboto:300,300i,400,400i,500,500i,700,700i,900" rel="stylesheet">
+
+    <!--Bootstrap Stylesheet-->
+    <link rel="stylesheet" type="text/css" href="/public/css/bootstrap.css">
+    <!--Font Awesome Stylesheet-->
+    <link rel="stylesheet" type="text/css" href="/public/css/font-awesome.css">
+    <!--Popup Stylesheet-->
+    <link rel="stylesheet" type="text/css" href="/public/css/popup.css">
+    <!--Animate Stylesheet-->
+    <link rel="stylesheet" type="text/css" href="/public/css/animate.css">
+    <!--Country Flags Styleshee -->
+    <link rel="stylesheet" type="text/css" href="/public/css/flags.css">
+    <!--Main Stylesheet-->
+    <link rel="stylesheet" type="text/css" href="/public/css/style.css">
+    <!--Responsive Stylesheet-->
+    <link rel="stylesheet" type="text/css" href="/public/css/responsive.css">
+    <!-- Style Color Switcher Stylesheet -->
+    <link rel="stylesheet" type="text/css" href="/public/css/switcher-colors.css">
+    <link rel="stylesheet" type="text/css" href="/css/header.css">
+</head>
+
+<body>
+    <div class="site-preloader">
+        <!--Satrt Site Preloader-->
+        <div class="spinner">
+            <div class="double-bounce1"></div>
+            <div class="double-bounce2"></div>
+        </div>
+    </div>
+    <!--End Site preloader-->
+
+    <div class="site-wrapper">
+        <!-- Start Site Wrapper -->
+        <% include ../partials/header %>
+        <!--End Header-->
+
+        <div class="clearfix"></div>
+        <% include ../partials/slides %>
+        <!--End Slider Section-->
+
+
+
+        <div class="clearfix"></div>
+        <section class="registration-page">
+            <!--Start Registration Page Section-->
+            
+            <div class="registration-form-content">
+                <!--Start Registration Form Content-->
+                <div class="container">
+                    <!--Start Container-->
+                    <div class="row">
+                        <%include ../partials/errors %>
+                    </div>
+                    <div class="row">
+                        <!--Start Row-->
+                        <div class="col-md-6 col-md-offset-3">
+                            <div class="registration-form">
+                                <h2 class="text-center">Registration</h2>
+                                <p>Already Registerd? <a href="/users/login">Log in</a></p>
+                                <form method="post" action="/users/register">                                    
+                                    <div class="form-group">
+                                        <input type="email" class="form-control" id="reg-email" placeholder="Email" name="username">
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="password" class="form-control" id="reg-pass" placeholder="Password" name="password">
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="password" class="form-control" id="reg-comfrm-pass" placeholder="Confirm Password" name="cfm_password">
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="text" class="form-control"  placeholder="First Name" name="firstname">
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="text" class="form-control"  placeholder="Last Name" name="lastname">
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="text" class="form-control"  placeholder="Address" name="address">
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="text" class="form-control"  placeholder="Phone" name="phone">
+                                    </div>   
+                                    <div class="checkbox">
+                                        <label><input type="checkbox"> I Agree The User Agreement And </label><span><a href="#">Tearm & Condition</a></span>
+                                    </div>
+                                    <button type="submit" class="btn btn-default">Create Account</button>
+                                </form>
+                            </div>
+                            <div>
+                                    <h3>Accounts for Demo</h3>
+                                    <table style="width:100%">
+                                        <tr>
+                                          <th>Type</th>
+                                          <th>Username</th> 
+                                          <th>Password</th>
+                                        </tr>
+                                        <tr>
+                                         <td>Admin</td>
+                                         <td>admin@vinhsang.com</td>
+                                         <td>123456</td>
+                                        </tr>
+                                        <tr>
+                                          <td>Buyer</td>
+                                          <td>buyer@vinhsang.com</td>
+                                          <td>123456</td>
+                                        </tr>
+                                        <tr>
+                                          <td>Seller</td>
+                                          <td>seller@vinhsang.com</td>
+                                          <td>123456</td>
+                                        </tr>
+                                        <tr>
+                                          <td>Buyer</td>
+                                          <td>buyer@glorious.com</td>
+                                          <td>123456</td>
+                                        </tr>
+                                        <tr>
+                                          <td>Seller</td>
+                                          <td>seller@glorious.com</td>
+                                          <td>123456</td>
+                                          </tr>
+                                      </table>
+                                      
+                            </div>
+                        </div>
+                    </div>
+                    <!--End Row-->
+                </div>
+                <!--End Container-->
+            </div>
+            <!--End Registration Form Content-->
+        </section>
+        <!--End Registration Page Section-->
+
+
+        <div class="clearfix"></div>
+		<% include ../partials/footer %>
+        <!--End Footer Section-->
+       
+
+    </div>
+    <!-- End Site Wrapper -->
+
+    <!-- jQuery JS -->
+    <script src="/public/js/jquery.min.js"></script>
+    <!-- Waypoints JS -->
+    <script src="/public/js/waypoints.js"></script>
+    <!-- Magnific JS -->
+    <script src="/public/js/jquery.magnific-popup.js"></script>
+    <!-- Country Select JS -->
+    <script src="/public/js/jquery.flagstrap.js"></script>
+    <!-- Counterup JS -->
+    <script src="/public/js/jquery.counterup.min.js"></script>
+    <!-- Bootstrap JS -->
+    <script type="text/javascript" src="/public/js/bootstrap.min.js"></script>
+    <!-- Main JS -->
+    <script type="text/javascript" src="/public/js/main.js"></script>
+</body>
+
+
+<!-- Mirrored from idealbrothers.thesoftking.com/HTML/shost/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 19 May 2017 06:57:51 GMT -->
+</html>

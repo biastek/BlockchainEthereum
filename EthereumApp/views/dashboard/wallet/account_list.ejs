@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<!--
+This is a starter template page. Use this page to start your new project from
+scratch. This page gets rid of all links and provides the needed markup only.
+-->
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>
+    <%= title%>
+  </title>
+  <!-- Tell the browser to be responsive to screen width -->
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+  <!-- Bootstrap 3.3.6 -->
+  <link rel="stylesheet" href="/dashboard/bootstrap/css/bootstrap.min.css">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css">
+  <!-- Ionicons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+  <!-- Theme style -->
+  <link rel="stylesheet" href="/dashboard/dist/css/AdminLTE.min.css">
+
+  <link rel="stylesheet" href="/dashboard/dist/css/skins/skin-blue.min.css">
+  <link rel="stylesheet" href="/assets/css/categorylist.css">
+
+</head>
+
+<body class="hold-transition skin-blue sidebar-mini">
+  <div class="wrapper">
+
+    <!-- Main Header -->
+    <% include ../partials/header %>
+    <!-- Left side column. contains the logo and sidebar -->
+    <% include ../partials/leftmenu %>
+
+    <!-- Content Wrapper. Contains page content -->
+    <div class="content-wrapper">
+      <!-- Content Header (Page header) -->
+      <section class="content-header">
+        <h1>
+          <%= title%>
+          <small>more Info</small>
+        </h1>
+        <ol class="breadcrumb">
+          <li><a href="#"><i class="fa fa-dashboard"></i> Level</a></li>
+          <li class="active">Here</li>
+        </ol>
+      </section>
+
+      <!-- Main content -->
+      <section class="content">
+        <%include ../partials/errors%>
+        <!-- Your Page Content Here -->
+        <div class="row">
+          <div class="col-xs-12">
+            <div class="box">
+              <div class="box-header">
+                <h3 class="box-title">
+                 
+                </h3>
+                <!-- Button trigger modal -->
+                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+                  create New Account
+                </button>
+                <div class="box-tools">
+                  <div class="input-group input-group-sm" style="width: 150px;">
+
+                    <input type="text" name="table_search" class="form-control pull-right" placeholder="Search">
+
+                    <div class="input-group-btn">
+                      <button type="submit" class="btn btn-default"><i class="fa fa-search"></i></button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- /.box-header -->
+              <div class="box-body table-responsive no-padding">
+                <table class="table table-hover">
+                  <tbody>
+                    <tr>
+                      <th>ID#</th>
+                      <th>Account Name</th>
+                      <th>Account Address</th>
+                      <th>Private Key</th>
+                      <th>Ether Balance</th>
+                      <th>Token Balance</th>
+                      <th colspan="2">Operator</th>
+                    </tr>
+                    <%if(accounts.length>0){
+                          let stt=0;
+                          for(let account of accounts){
+                            stt=stt+1;
+                            %>
+                            <tr>
+                              <td><%=stt%></td>
+                              <td><%=account.account_name%></td>
+                              <td><%=account.account_address%></td>
+                              <td><%=account.private_key%></td>                             
+                              <td><%=account.ether_balance%></td>                      
+                              <td><%=account.token_balance%><strong> (<%=symbol%>) </strong></td>
+                              <!-- <td><a href="/private/wallet/faucet/<%=account.id%>"><img src="https://s2.coinmarketcap.com/static/img/coins/16x16/1027.png" class="logo-sprite" alt="Ethereum" height="16" width="16"></a></td> -->
+                              <td><a href="/private/wallet/faucet/<%=account.id%>"><i class="fa fa-gift"></i></a></td>
+                              <td><a href="/private/wallet/transfer/<%=account.id%>"><i class="fa fa-exchange"></i></a></td>
+                              <td><a href="/private/wallet/updateAccount/<%=account.id%>"><i class="fa fa-edit"></i></a></td>
+                              <td><a href="/private/wallet/deleteAccount/<%=account.id%>"><i class="fa fa-trash-o"></i></a></td>
+                            </tr>
+                        <%}%>
+                    <%}%>
+                  </tbody>
+                </table>
+              </div>
+              <!-- /.box-body -->
+            </div>
+            <!-- /.box -->
+          </div>
+        </div><br>
+        <div class="row">
+          <!-- Modal -->
+          <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+            aria-hidden="true">
+            <div class="modal-dialog" role="document">
+              <form action="/private/wallet/insertAccount" method="POST">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Add Account</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                      <span aria-hidden="true">&times;</span>
+                    </button>
+                  </div>
+                  <div class="modal-body">
+                    <div class="form-group">
+                      <label for="CategoryName">Name</label>
+                      <input type="text" id="account_name" name="account_name" placeholder="Account Name" class="form-control" autofocus>                      
+                    </div>                    
+                  <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary">Save</button>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+        <% include ../partials/pagination%>
+      </section>
+      <!-- /.content -->
+    </div>
+    <!-- /.content-wrapper -->
+
+    <!-- Main Footer -->
+    <% include ../partials/footer%>
+
+    <!-- Add the sidebar's background. This div must be placed
+       immediately after the control sidebar -->
+    <div class="control-sidebar-bg"></div>
+  </div>
+  <!-- ./wrapper -->
+
+  <!-- REQUIRED JS SCRIPTS -->
+
+  <!-- jQuery 2.2.3 -->
+  <script src="/dashboard/plugins/jQuery/jquery-2.2.3.min.js"></script>
+  <!-- Bootstrap 3.3.6 -->
+  <script src="/dashboard/bootstrap/js/bootstrap.min.js"></script>
+  <!-- AdminLTE App -->
+  <script src="/dashboard/dist/js/app.min.js"></script>
+
+  <!-- Optionally, you can add Slimscroll and FastClick plugins.
+     Both of these plugins are recommended to enhance the
+     user experience. Slimscroll is required when using the
+     fixed layout. -->
+
+</body>
+
+</html>

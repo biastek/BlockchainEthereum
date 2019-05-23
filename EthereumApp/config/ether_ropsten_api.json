@@ -1,0 +1,7 @@
+{
+    "api_ip":"http://localhost",
+    "api_port":"4000",
+    "api_url":"/api/",
+    "token_name":"Vinh Sang Coin",
+    "symbol":"VSC"
+}
